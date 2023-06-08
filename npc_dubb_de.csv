@@ -80,7 +80,7 @@
 "PAL_3300_Justin","Justin","","","short","tertiary","rebel|ex-soldier",""
 "PAL_3301_Hergan","Hergan","","","short","tertiary","rebel|ex-soldier",""
 "PAL_3302_Elines","Elines","","","short","tertiary","rebel|ex-soldier",""
-"NONE_5081_Czeladnik|NONE_5082_Czeladnik","Apprentice","","","short","quaternary","",""
+"NONE_5081_Czeladnik|NONE_5082_Czeladnik","Apprentice","Apprentice of hunter from Gladiators Bay","","short","quaternary","",""
 "NONE_1514_Prison_guard","Prison guard","Prison guard on the path to executioner","","short","quaternary","guard",""
 "PRI_1509_LANKO","Lanko","Prison guard","","short","quaternary","guard|malicious",""
 "PRI_1501_GUARD_NACZELNIK","Prison guard","Prison guard near warden's room","","short","quaternary","guard",""
@@ -158,3 +158,4 @@
 "NONE_7632_wojownik","Warrior","Warrior at the platform in the forest","","short","quaternary","warrior",""
 "NONE_7633_RYCERZ","Knight","Knight by the platform in the city","","short","quaternary","knight",""
 "SLD_70006_Widz","Spectator","","","short","quaternary","funny|crazy",""
+"PRI_1516_SKID","Skid","","","short","quaternary","guard",""
