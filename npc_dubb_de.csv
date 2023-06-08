@@ -143,7 +143,7 @@
 "SLD_61002_Guard","Supervisor","Guards/supervisors (telling Romulus to go away)","","short","quaternary","guard",""
 "NONE_1512_Prison_guard","Prison guard","","React when Romulus stands by them for too long.","short","quaternary","guard",""
 "NONE_1513_Prison_guard","Prison guard","","React when Romulus stands by them for too long.","short","quaternary","guard",""
-"NONE_1514_Prison_guard","Prison guard","","React when Romulus stands by them for too long.","short","quaternary","guard",""
+"NONE_1503_Prison_guard","Prison guard","","React when Romulus stands by them for too long.","short","quaternary","guard",""
 "NONE_1508_Prison_guard","Prison guard","","React when Romulus stands by them for too long.","short","quaternary","guard",""
 "NONE_1507_Prison_guard","Prison guard","","React when Romulus stands by them for too long.","short","quaternary","guard",""
 "NONE_7705_TRENER","Trainer","Trainer from training arena on Gladiators Bay","","short-medium","quaternary","coach",""
