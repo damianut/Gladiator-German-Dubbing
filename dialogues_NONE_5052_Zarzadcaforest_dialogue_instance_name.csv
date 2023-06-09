@@ -1,0 +1,98 @@
+"CHARACTER DESCRIPTION"
+"Relaxed, rather friendly in conversation."
+
+"","","","","DIA_Zarzadcaforest_HELLO1"
+"Arena manager","Oh, der Champion selbst. Ich kann es kaum erwarten, dich gegen Robin kämpfen zu sehen.                                                                                                                     ","DIA_Zarzadcaforest_HELLO1_03_01"
+"Romulus","","Robin?                                                                                                                     ","DIA_Zarzadcaforest_HELLO1_15_02"
+"Arena manager","Unser Lord hat deine Ankunft sehnsüchtig erwartet.                                                                                                                     ","DIA_Zarzadcaforest_HELLO1_03_03"
+"Arena manager","Ich bin hier der Arenaleiter. Wenn du bereit bist zu kämpfen, komm zu mir.                                                                                                                     ","DIA_Zarzadcaforest_HELLO1_03_04"
+
+"","","","","DIA_ZARZADCAFOREST_NAGRODKA1"
+"Romulus","","Ich möchte die Belohnung für den Kampf einsammeln.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA1_15_01"
+"Arena manager","Aber natürlich.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA1_03_02"
+"Arena manager","Hier ist dein Geld.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA1_03_03"
+"Romulus","","Wirklich viel.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA1_15_04"
+"Arena manager","Das hier ist nicht die Gladiatoren-Bucht oder ein Dorf. Die Einsätze sind hier viel höher.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA1_03_05"
+"Arena manager","Aber das ist nur zu deinem Vorteil.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA1_03_06"
+
+"","","","","DIA_ZARZADCAFOREST_FOREST2"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST2_15_01"
+"Arena manager","Dann rein in die Arena.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST2_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_NAGRODKA2"
+"Romulus","","Ich möchte die Belohnung für den Kampf einsammeln.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA2_15_01"
+"Arena manager","Hier hast du sie.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA2_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_TRUDNESIEWYLOSOWALO"
+"Arena manager","Nun, dir steht ein harter Kampf bevor.                                                                                                                     ","DIA_ZARZADCAFOREST_TRUDNESIEWYLOSOWALO_03_01"
+"Romulus","","Ich habe mich schon einmal mit einem Kampf wie diesem auseinandergesetzt.                                                                                                                     ","DIA_ZARZADCAFOREST_TRUDNESIEWYLOSOWALO_15_02"
+"Arena manager","Aber nicht als Champion. Sei nicht überrascht, wenn du zuerst von ein paar Leuten angegriffen wirst.                                                                                                                     ","DIA_ZARZADCAFOREST_TRUDNESIEWYLOSOWALO_03_03"
+"Romulus","","Es verändert die Dinge.                                                                                                                     ","DIA_ZARZADCAFOREST_TRUDNESIEWYLOSOWALO_15_04"
+"Arena manager","Betritt die Arena. Wir warten nur auf dich.                                                                                                                     ","DIA_ZARZADCAFOREST_TRUDNESIEWYLOSOWALO_03_05"
+
+"","","","","DIA_ZARZADCAFOREST_FOREST4"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST4_15_01"
+"Arena manager","Dann ab in die Arena mit dir.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST4_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_NAGRODA4"
+"Romulus","","Ich möchte meine Belohnung für Grimbald abholen.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODA4_15_01"
+"Arena manager","Wie du meinst.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODA4_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_FOREST5"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST5_15_01"
+"Arena manager","Dann ab in die Arena. Auf Geheiß von Lord Tameron haben wir einen besonderen Gegner für dich vorbereitet.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST5_03_02"
+"Romulus","","Was heißt 'besonderen'?                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST5_15_03"
+"Arena manager","Überrasche dich selbst.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST5_03_04"
+
+"","","","","DIA_ZARZADCAFOREST_NAGRODKA5"
+"Romulus","","Ich habe den Ork besiegt, ich verdiene eine Belohnung.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA5_15_01"
+"Arena manager","Aber natürlich.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA5_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_FOREST6"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST6_15_01"
+"Arena manager","Betrete die Arena und habe Spaß.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST6_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_NAGRODKA6"
+"Arena manager","Du hast gute Arbeit mit diesen Wölfen geleistet.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA6_03_01"
+"Arena manager","Ich hatte nicht erwartet, dass der Typ plötzlich anfing, Wölfe zu beschwören.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA6_03_02"
+"Romulus","","Ich verdiene eine Belohnung.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA6_15_03"
+"Arena manager","Ja, natürlich. Leider neue Anordnungen und Vorschriften.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA6_03_04"
+"Arena manager","1000 Gold…                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA6_03_05"
+"Romulus","","Verdammt wenig.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA6_15_06"
+"Arena manager","Ich kann es nicht ändern.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA6_03_07"
+
+"","","","","DIA_ZARZADCAFOREST_FOREST7"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST7_15_01"
+"Arena manager","Also rein in die Arena.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST7_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_NAGRODKA7"
+"Romulus","","Ich möchte meine Belohnung für den Sieg über den Hulk abholen.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA7_15_01"
+"Arena manager","Hier hast du es.                                                                                                                     ","DIA_ZARZADCAFOREST_NAGRODKA7_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_FOREST8"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST8_15_01"
+"Arena manager","Die Regeln dieses Kampfes mögen nicht fair sein, aber du schaffst das.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST8_03_02"
+"Romulus","","Hmm?                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST8_15_03"
+"Arena manager","Komm rein, du wirst sehen, worum es geht.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST8_03_04"
+
+"","","","","DIA_ZARZADCAFOREST_FOREST9"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST9_15_01"
+"Arena manager","Ich lade dich in die Arena ein.                                                                                                                     ","DIA_ZARZADCAFOREST_FOREST9_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_KURWISKO"
+"Romulus","","Ich möchte meine Belohnung dafür kassieren, dass ich diesen beiden Clowns in den Hintern getreten habe.                                                                                                                     ","DIA_ZARZADCAFOREST_KURWISKO_15_01"
+"Arena manager","Hier bitte.                                                                                                                     ","DIA_ZARZADCAFOREST_KURWISKO_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_DAWAJZATASZAMTE"
+"Romulus","","Ich habe Joanna geschlagen, ich erwarte eine Belohnung.                                                                                                                     ","DIA_ZARZADCAFOREST_DAWAJZATASZAMTE_15_01"
+"Arena manager","Bitte und viel Glück im Kampf gegen den Champion.                                                                                                                     ","DIA_ZARZADCAFOREST_DAWAJZATASZAMTE_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_CWELUJEBANY"
+"Arena manager","Nun, ist der Tag gekommen.                                                                                                                     ","DIA_ZARZADCAFOREST_CWELUJEBANY_03_01"
+"Arena manager","Betritt die Arena, Robin wird bald hier sein.                                                                                                                     ","DIA_ZARZADCAFOREST_CWELUJEBANY_03_02"
+
+"","","","","DIA_ZARZADCAFOREST_Deathsentence"
+"Arena manager","Du kommst zu spät zum Kampf. Du weißt was das bedeutet.                                                                                                                     ","DIA_ZARZADCAFOREST_Deathsentence_03_01"
+
+"","","","",""
+

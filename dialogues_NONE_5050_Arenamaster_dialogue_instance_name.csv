@@ -1,0 +1,141 @@
+"CHARACTER DESCRIPTION"
+"Initially, he mocks Romulus. He is responsible for allowing gladiators into the arena."
+
+"","","","","DIA_Arenamaster_SIEMANOWY"
+"Arena manager","Oh, ein neuer Gladiator, wie ich sehe.                                                                                                                     ","DIA_Arenamaster_SIEMANOWY_03_01"
+"Romulus","","Noch nicht, aber ich werde es sicher bald sein.                                                                                                                     ","DIA_Arenamaster_SIEMANOWY_15_02"
+"Arena manager","Du bist wahrscheinlich hier, um dir die Regeln erklären zu lassen.                                                                                                                     ","DIA_Arenamaster_SIEMANOWY_03_03"
+"Romulus","","Genau.                                                                                                                     ","DIA_Arenamaster_SIEMANOWY_15_04"
+"Arena manager","Das ist unter anderem mein Job.                                                                                                                     ","DIA_Arenamaster_SIEMANOWY_03_05"
+"Arena manager","Zuerst. Jeder Kampf geht bis zum Tod.                                                                                                                     ","DIA_Arenamaster_SIEMANOWY_03_06"
+"Arena manager","In der Arena kannst du kämpfen, mit was du willst und wie du willst.                                                                                                                     ","DIA_Arenamaster_SIEMANOWY_03_07"
+"Arena manager","Jeder Fluchtversuch während des Kampfes führt zu deinem Tod.                                                                                                                     ","DIA_Arenamaster_SIEMANOWY_03_08"
+
+"","","","","DIA_Arenamaster_ELOPOKA1"
+"Arena manager","Die meisten Kämpfe beginnen mit einem Gespräch mit deinem Gegner.                                                                                                                     ","DIA_Arenamaster_ELOPOKA1_03_01"
+"Arena manager","Das ist so brauch hier.                                                                                                                     ","DIA_Arenamaster_ELOPOKA1_03_02"
+"Arena manager","Einige Kämpfe beginnen jedoch, wenn du deine Position einnimmst.                                                                                                                     ","DIA_Arenamaster_ELOPOKA1_03_03"
+"Arena manager","Stelle dich dort hin wo der Kreis auf den Boden der Arena gemalt ist.                                                                                                                     ","DIA_Arenamaster_ELOPOKA1_03_04"
+"Arena manager","Den Gladiator anzugreifen, bevor das Spiel beginnt, ist dein Tod!                                                                                                                     ","DIA_Arenamaster_ELOPOKA1_03_05"
+
+"","","","","DIA_Arenamaster_1WALKA"
+"Romulus","","Ich bin bereit für meinen ersten Kampf.                                                                                                                     ","DIA_Arenamaster_1WALKA_15_01"
+"Arena manager","ES war schön dich zu treffen. Rein in die Arena!                                                                                                                     ","DIA_Arenamaster_1WALKA_03_02"
+
+"","","","","DIA_Arenamaster_NAGRODA1"
+"Romulus","","Ich möchte mein Geld für den ersten Kampf abholen.                                                                                                                     ","DIA_Arenamaster_NAGRODA1_15_01"
+"Arena manager","Hier sind deine 100 Gold. Geben sie weise aus, Gladiator.                                                                                                                     ","DIA_Arenamaster_NAGRODA1_03_02"
+
+"","","","","DIA_ARENAMASTER_GLADIATOR1"
+"Arena manager","Da bist du ja! Ich dachte, du kommst nicht.                                                                                                                     ","DIA_ARENAMASTER_GLADIATOR1_03_01"
+"Romulus","","Da hast du falsch gedacht.                                                                                                                     ","DIA_ARENAMASTER_GLADIATOR1_15_02"
+"Arena manager","Hehe, gut gebellt. Betritt die Arena, dein Gegner wartet auf dich!                                                                                                                     ","DIA_ARENAMASTER_GLADIATOR1_03_03"
+
+"","","","","DIA_ARENAMASTER_NAGRODAFOR1GLADIATOR"
+"Romulus","","Ich möchte meine Belohnung für den Sieg über Dyadys abholen!                                                                                                                     ","DIA_ARENAMASTER_NAGRODAFOR1GLADIATOR_15_01"
+"Arena manager","Nur zu, es war ein guter Kampf, aber etwas zu kurz.                                                                                                                     ","DIA_ARENAMASTER_NAGRODAFOR1GLADIATOR_03_02"
+
+"","","","","DIA_ARENAMASTER_2WALKA"
+"Arena manager","Hallo nochmal, Phamart wartet schon auf dich.                                                                                                                     ","DIA_ARENAMASTER_2WALKA_03_01"
+"Romulus","","Ich freue mich schon.                                                                                                                     ","DIA_ARENAMASTER_2WALKA_15_02"
+"Arena manager","Dein Vertrauen verlässt dich anscheinend nicht. Geh jetzt in die Arena, die Zuschauer wollen einen Kampf.                                                                                                                     ","DIA_ARENAMASTER_2WALKA_03_03"
+
+"","","","","DIA_ARENAMASTER_NAGRODAFOR2GLADIATOR"
+"Romulus","","Ich möchte meine Belohnung für den Sieg über Phamart abholen.                                                                                                                     ","DIA_ARENAMASTER_NAGRODAFOR2GLADIATOR_15_01"
+"Arena manager","Bitte, Gladiator.                                                                                                                     ","DIA_ARENAMASTER_NAGRODAFOR2GLADIATOR_03_02"
+
+"","","","","DIA_ARENAMASTER_KOLOSFIGHT"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ARENAMASTER_KOLOSFIGHT_15_01"
+"Arena manager","Weißt du was, ich dachte, du würdest lange in dieser Arena durchhalten, aber jetzt, wo ich mir angesehen habe, wer dein nächster Gegner ist, kann ich nur sagen: Tschüß.                                                                                                                     ","DIA_ARENAMASTER_KOLOSFIGHT_03_02"
+"Romulus","","Das werden wir sehen, ich überrasche gerne.                                                                                                                     ","DIA_ARENAMASTER_KOLOSFIGHT_15_03"
+
+"","","","","DIA_ARENAMASTER_KOLOSNAGRODA"
+"Arena manager","Unmöglich.                                                                                                                     ","DIA_ARENAMASTER_KOLOSNAGRODA_03_01"
+"Romulus","","So? Was denn?                                                                                                                     ","DIA_ARENAMASTER_KOLOSNAGRODA_15_02"
+"Arena manager","Wie zum Teufel hast du ihn geschlagen?                                                                                                                     ","DIA_ARENAMASTER_KOLOSNAGRODA_03_03"
+"Romulus","","Ich möchte meine Belohnung für den Sieg über den Koloss einfordern.                                                                                                                     ","DIA_ARENAMASTER_KOLOSNAGRODA_15_04"
+"Arena manager","Viel Spaß mit dem Gold.                                                                                                                     ","DIA_ARENAMASTER_KOLOSNAGRODA_03_05"
+
+"","","","","DIA_ARENAMASTER_HAHAHA"
+"Arena manager","Ich werde nicht viel sagen, ich wünsche dir nur einen schnellen Tod.                                                                                                                     ","DIA_ARENAMASTER_HAHAHA_03_01"
+"Romulus","","Ein schneller Gewinn, denke ich.                                                                                                                     ","DIA_ARENAMASTER_HAHAHA_15_02"
+"Arena manager","Optimistisch!                                                                                                                     ","DIA_ARENAMASTER_HAHAHA_03_03"
+
+"","","","","DIA_ARENAMASTER_SHADOWBITE"
+"Romulus","","Ich möchte meine Belohnung für den Sieg über den Schattenläufer abholen.                                                                                                                     ","DIA_ARENAMASTER_SHADOWBITE_15_01"
+"Arena manager","Das war eine hervorragende Leistung. Hier sind 400 Gold.                                                                                                                     ","DIA_ARENAMASTER_SHADOWBITE_03_02"
+
+"","","","","DIA_ARENAMASTER_TYLERREADY"
+"Romulus","","Ich bin bereit für einen weiteren Kampf!                                                                                                                     ","DIA_ARENAMASTER_TYLERREADY_15_01"
+"Arena manager","Nahmadi wartet in der Arena auf dich, viel Glück.                                                                                                                     ","DIA_ARENAMASTER_TYLERREADY_03_02"
+
+"","","","","DIA_ARENAMASTER_DAJHAJS"
+"Romulus","","Ich möchte die Belohnung für den Kampf abholen.                                                                                                                     ","DIA_ARENAMASTER_DAJHAJS_15_01"
+"Arena manager","Wie du meinst.                                                                                                                     ","DIA_ARENAMASTER_DAJHAJS_03_02"
+
+"","","","","DIA_ARENAMASTER_HAHACOZATYP"
+"Arena manager","Wie ich sehe, ist das Gold für dich am wichtigsten.                                                                                                                     ","DIA_ARENAMASTER_HAHACOZATYP_03_01"
+"Romulus","","Worauf du dich beziehst.                                                                                                                     ","DIA_ARENAMASTER_HAHACOZATYP_15_02"
+"Arena manager","Willst du wirklich diese unschuldigen, ungerecht behandelten Menschen töten? Du bist ein Monster!                                                                                                                     ","DIA_ARENAMASTER_HAHACOZATYP_03_03"
+"Romulus","","Beruhige dich.                                                                                                                     ","DIA_ARENAMASTER_HAHACOZATYP_15_04"
+
+"","","","","DIA_ARENAMASTER_PIZDA"
+"Romulus","","Ich möchte die versprochenen 1000 Goldstücke abholen.                                                                                                                     ","DIA_ARENAMASTER_PIZDA_15_01"
+"Arena manager","Bitte sehr, speziell von Proxemo!                                                                                                                     ","DIA_ARENAMASTER_PIZDA_03_02"
+
+"","","","","DIA_ARENAMASTER_IMREADYZNOWU"
+"Romulus","","Ich bin bereit für einen weiteren Kampf!                                                                                                                     ","DIA_ARENAMASTER_IMREADYZNOWU_15_01"
+"Arena manager","Dann rein in die Arena. Gladiator Ultram wartet!                                                                                                                     ","DIA_ARENAMASTER_IMREADYZNOWU_03_02"
+
+"","","","","DIA_ARENAMASTER_AAAAAA"
+"Romulus","","Ich möchte meine Belohnung für Ultram abholen.                                                                                                                     ","DIA_ARENAMASTER_AAAAAA_15_01"
+"Arena manager","Wie du meinst.                                                                                                                     ","DIA_ARENAMASTER_AAAAAA_03_02"
+
+"","","","","DIA_ARENAMASTER_DAWAJMIGOOO"
+"Romulus","","Ich bin bereit für meinen siebten Kampf.                                                                                                                     ","DIA_ARENAMASTER_DAWAJMIGOOO_15_01"
+"Arena manager","Dann rein in die Arena. Stelhard wartet bereits auf dich.                                                                                                                     ","DIA_ARENAMASTER_DAWAJMIGOOO_03_02"
+
+"","","","","DIA_ARENAMASTER_DAWAJHAJSCWELU"
+"Romulus","","Ich möchte die Belohnung für den Kampf abholen.                                                                                                                     ","DIA_ARENAMASTER_DAWAJHAJSCWELU_15_01"
+"Arena manager","Hier ist natürlich deine Zahlung.                                                                                                                     ","DIA_ARENAMASTER_DAWAJHAJSCWELU_03_02"
+
+"","","","","DIA_ARENAMASTER_CYCKIPOMPA"
+"Romulus","","Ich bin bereit für einen weiteren Kampf!                                                                                                                     ","DIA_ARENAMASTER_CYCKIPOMPA_15_01"
+"Arena manager","Das ist großartig. Dein Gegner wartet bereits auf dich.                                                                                                                     ","DIA_ARENAMASTER_CYCKIPOMPA_03_02"
+
+"","","","","DIA_ARENAMASTER_HAJSSZMATO"
+"Romulus","","Ich möchte die Belohnung für den Kampf abholen.                                                                                                                     ","DIA_ARENAMASTER_HAJSSZMATO_15_01"
+"Arena manager","Wie du meinst.                                                                                                                     ","DIA_ARENAMASTER_HAJSSZMATO_03_02"
+
+"","","","","DIA_ARENAMASTER_HAHAALELAMUS"
+"Arena manager","Oh, ich sehe, es geht dir nicht gut, huh?                                                                                                                     ","DIA_ARENAMASTER_HAHAALELAMUS_03_01"
+"Romulus","","Schon gut. Ich werde diesen Gegner trotzdem zertrümmern.                                                                                                                     ","DIA_ARENAMASTER_HAHAALELAMUS_15_02"
+"Arena manager","Dann viel Glück.                                                                                                                     ","DIA_ARENAMASTER_HAHAALELAMUS_03_03"
+"Arena manager","Bereit für einen weiteren Kampf?                                                                                                                     ","DIA_ARENAMASTER_HAHAALELAMUS_03_04"
+"Romulus","","Natürlich, wie immer.                                                                                                                     ","DIA_ARENAMASTER_HAHAALELAMUS_15_05"
+
+"","","","","DIA_ARENAMASTER_DAWAJBABE"
+"Romulus","","Ich möchte die Belohnung für den Kampf abholen.                                                                                                                     ","DIA_ARENAMASTER_DAWAJBABE_15_01"
+"Arena manager","Hier hast du es. Dir bleibt nur noch, gegen den Champion zu kämpfen, das habe ich nicht erwartet.                                                                                                                     ","DIA_ARENAMASTER_DAWAJBABE_03_02"
+
+"","","","","DIA_DAJRADEPLS_WIECWALKAZBOSSEM"
+"Arena manager","Wir haben gewartet. Kämpfe um den Titel des Champions der Arena.                                                                                                                     ","DIA_DAJRADEPLS_WIECWALKAZBOSSEM_03_01"
+"Arena manager","Als ich dich zum ersten Mal sah, hatte ich absolut nicht erwartet, dass du hier irgendetwas bedeuten würdest, aber jetzt…                                                                                                                     ","DIA_DAJRADEPLS_WIECWALKAZBOSSEM_03_02"
+"Romulus","","Beurteile ein Buch nicht nach seinem Einband, das habe ich dir wahrscheinlich schon oft gesagt.                                                                                                                     ","DIA_DAJRADEPLS_WIECWALKAZBOSSEM_15_03"
+"Arena manager","(lacht) Ja, das will ich meinen! Betritt die Arena, Hermes wird bald hier sein.                                                                                                                     ","DIA_DAJRADEPLS_WIECWALKAZBOSSEM_03_04"
+
+"","","","","DIA_Arenamaster_Deathsentence"
+"Arena manager","Du kommst zu spät zum Kampf. Du weißt was das bedeutet.                                                                                                                     ","DIA_Arenamaster_Deathsentence_03_01"
+
+"","","","","DIA_ARENAMASTER_NAARENKEPOFLAMME"
+"Arena manager","An Mut mangelt es dir nicht. Es ist gut für dich, dass es kein Kampf auf Leben und Tod ist.                                                                                                                     ","DIA_ARENAMASTER_NAARENKEPOFLAMME_03_01"
+"Arena manager","Betritt die Arena.                                                                                                                     ","DIA_ARENAMASTER_NAARENKEPOFLAMME_03_02"
+
+"","","","","DIA_ARENAMASTER_FLAMMAREWARD"
+"Arena manager","Der Kampf würde jedoch anders aussehen, wenn ihr auf Leben und Tod kämpfen würdet.                                                                                                                     ","DIA_ARENAMASTER_FLAMMAREWARD_03_01"
+"Romulus","","Danke.                                                                                                                     ","DIA_ARENAMASTER_FLAMMAREWARD_15_02"
+"Arena manager","Was bist Du hier? Bist du wegen eines Trostpreises gekommen?                                                                                                                     ","DIA_ARENAMASTER_FLAMMAREWARD_03_03"
+"Arena manager","Sei froh, dass du lebst!                                                                                                                     ","DIA_ARENAMASTER_FLAMMAREWARD_03_04"
+
+"","","","",""
+

@@ -1,0 +1,124 @@
+"CHARACTER DESCRIPTION"
+"He doesn't give a damn about the fate of the gladiators, although he has an appreciation for the winners."
+
+"","","","","DIA_ZARZADCA_HELLO1"
+"Arena manager","Hallo neuer Gladiator!                                                                                                                     ","DIA_ZARZADCA_HELLO1_03_01"
+"Arena manager","Man sagt sich, du bist der Champion aus der Gladiator-Bucht. Ehrlich gesagt glaube ich diese Geschichte nicht.                                                                                                                     ","DIA_ZARZADCA_HELLO1_03_02"
+"Romulus","","Ich werde es dir in der Arena beweisen, dass die Geschichte stimmt.                                                                                                                     ","DIA_ZARZADCA_HELLO1_15_03"
+"Arena manager","Du kennst die Regeln richtig?                                                                                                                     ","DIA_ZARZADCA_HELLO1_03_04"
+"Arena manager","Ein Kampf auf Leben und Tod, alles ist erlaubt, wir greifen nicht vor dem Start an?                                                                                                                     ","DIA_ZARZADCA_HELLO1_03_05"
+"Arena manager","Ist dir das alles bekannt?                                                                                                                     ","DIA_ZARZADCA_HELLO1_03_06"
+"Romulus","","Ja, ich kenne die Regeln.                                                                                                                     ","DIA_ZARZADCA_HELLO1_15_07"
+"Arena manager","Dann komm morgen zu mir, wenn du bereit bist.                                                                                                                     ","DIA_ZARZADCA_HELLO1_03_08"
+
+"","","","","DIA_ZARZADCA_FARMER1"
+"Romulus","","Ich bin bereit zu kämpfen!                                                                                                                     ","DIA_ZARZADCA_FARMER1_15_01"
+"Arena manager","Dann betritt die Arena, Zorwig wartet auf dich.                                                                                                                     ","DIA_ZARZADCA_FARMER1_03_02"
+
+"","","","","DIA_ZARZADCA_NAGRODA1"
+"Romulus","","Ich möchte meine Belohnung für den Sieg über Zorwig einfordern!                                                                                                                     ","DIA_ZARZADCA_NAGRODA1_15_01"
+"Arena manager","Wie du meinst.                                                                                                                     ","DIA_ZARZADCA_NAGRODA1_03_02"
+
+"","","","","DIA_ZARZADCA_FARMER2"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCA_FARMER2_15_01"
+"Arena manager","Dann betritt die Arena!                                                                                                                     ","DIA_ZARZADCA_FARMER2_03_02"
+
+"","","","","DIA_ZARZADCA_NAGRODA2"
+"Romulus","","Ich möchte die Belohnung für den Kampf einsammeln.                                                                                                                     ","DIA_ZARZADCA_NAGRODA2_15_01"
+"Arena manager","Wie du meinst.                                                                                                                     ","DIA_ZARZADCA_NAGRODA2_03_02"
+
+"","","","","DIA_ZARZADCA_WIESZCO1"
+"Arena manager","Herzlichen Glückwunsch zum Gewinn!                                                                                                                     ","DIA_ZARZADCA_WIESZCO1_03_01"
+"Romulus","","Danke.                                                                                                                     ","DIA_ZARZADCA_WIESZCO1_15_02"
+"Arena manager","Bereite dich gut auf die nächste Phase vor. Finde jemanden, der dir hilft.                                                                                                                     ","DIA_ZARZADCA_WIESZCO1_03_03"
+"Romulus","","Was heißt das?                                                                                                                     ","DIA_ZARZADCA_WIESZCO1_15_04"
+"Arena manager","Ein Drei-gegen-Drei-Kampf, heißt das.                                                                                                                     ","DIA_ZARZADCA_WIESZCO1_03_05"
+"Romulus","","Wo finde ich jemanden, der mir hilft?                                                                                                                     ","DIA_ZARZADCA_WIESZCO1_15_06"
+"Arena manager","Ich weiß nicht, vielleicht in einem Gasthaus? Das ist deine Angelegenheit!                                                                                                                     ","DIA_ZARZADCA_WIESZCO1_03_07"
+
+"","","","","DIA_ZARZADCA_MAMLUDZI"
+"Romulus","","Ich habe ein Team gefunden.                                                                                                                     ","DIA_ZARZADCA_MAMLUDZI_15_01"
+"Arena manager","Wen hast du genommen?                                                                                                                     ","DIA_ZARZADCA_MAMLUDZI_03_02"
+"Romulus","","Tragor und Robert.                                                                                                                     ","DIA_ZARZADCA_MAMLUDZI_15_03"
+"Arena manager","Diese betrunkenen da? Ich hoffe die wissen, dass beim Betreten der Arena die gleichen Regeln für sie gelten wie für Gladiatoren?                                                                                                                     ","DIA_ZARZADCA_MAMLUDZI_03_04"
+"Arena manager","Wissen sie das sie sterben könnten?                                                                                                                     ","DIA_ZARZADCA_MAMLUDZI_03_05"
+"Romulus","","Ich glaube schon. Warum?                                                                                                                     ","DIA_ZARZADCA_MAMLUDZI_15_06"
+"Arena manager","Alles gut, mir ist das egal. Bis morgen in der Arena.                                                                                                                     ","DIA_ZARZADCA_MAMLUDZI_03_07"
+
+"","","","","DIA_ZARZADCA_FARMER3"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCA_FARMER3_15_01"
+"Arena manager","Wenn das so ist, betrete die Arena. Es erwartet uns eine gute Show.                                                                                                                     ","DIA_ZARZADCA_FARMER3_03_02"
+
+"","","","","DIA_ZARZADCA_POZDRO"
+"Arena manager","Herzlichen Glückwunsch, toller Kampf.                                                                                                                     ","DIA_ZARZADCA_POZDRO_03_01"
+"Romulus","","Danke.                                                                                                                     ","DIA_ZARZADCA_POZDRO_15_02"
+"Arena manager","Aber nicht für deine Begleiter. Dafür bekommst du die ganze Belohnung für dich allein.                                                                                                                     ","DIA_ZARZADCA_POZDRO_03_03"
+"Arena manager","Hier ist deine Auszahlung.                                                                                                                     ","DIA_ZARZADCA_POZDRO_03_04"
+
+"","","","","DIA_ZARZADCA_AREAD"
+"Romulus","","Ich bin bereit für einen weiteren Kampf!                                                                                                                     ","DIA_ZARZADCA_AREAD_15_01"
+"Arena manager","Betritt die Arena. Die Zuschauer warten auf Ihre nächste Show.                                                                                                                     ","DIA_ZARZADCA_AREAD_03_02"
+
+"","","","","DIA_ZARZADCA_NAGRODEDAWAJKURWO"
+"Romulus","","Ich möchte die Belohnung für den Kampf einsammeln.                                                                                                                     ","DIA_ZARZADCA_NAGRODEDAWAJKURWO_15_01"
+"Arena manager","Wie du meinst.                                                                                                                     ","DIA_ZARZADCA_NAGRODEDAWAJKURWO_03_02"
+
+"","","","","DIA_ZARZADCA_WALKANEXTDAWAJ"
+"Romulus","","Ich bin bereit für einen weiteren Kampf.                                                                                                                     ","DIA_ZARZADCA_WALKANEXTDAWAJ_15_01"
+"Arena manager","Betrete die Arena, sei vorsichtig, es könnte kalt sein.                                                                                                                     ","DIA_ZARZADCA_WALKANEXTDAWAJ_03_02"
+"Romulus","","Was?                                                                                                                     ","DIA_ZARZADCA_WALKANEXTDAWAJ_15_03"
+"Arena manager","Geh hinein!                                                                                                                     ","DIA_ZARZADCA_WALKANEXTDAWAJ_03_04"
+
+"","","","","DIA_ZARZADCA_AASA"
+"Arena manager","Das war ziemlich gut.                                                                                                                     ","DIA_ZARZADCA_AASA_03_01"
+"Romulus","","Dankeschön.                                                                                                                     ","DIA_ZARZADCA_AASA_15_02"
+"Arena manager","Hier ist deine Zahlung.                                                                                                                     ","DIA_ZARZADCA_AASA_03_03"
+
+"","","","","DIA_ZARZADCA_WYSLANIKJESTEKURWO"
+"Arena manager","Oh, fast vergessen.                                                                                                                     ","DIA_ZARZADCA_WYSLANIKJESTEKURWO_03_01"
+"Arena manager","Ein königlicher Gesandter ist ins Dorf gekommen, er wollte mit dir sprechen.                                                                                                                     ","DIA_ZARZADCA_WYSLANIKJESTEKURWO_03_02"
+"Romulus","","Mit mir?                                                                                                                     ","DIA_ZARZADCA_WYSLANIKJESTEKURWO_15_03"
+"Arena manager","Hast du Angst? Gehe zum Haus des Dorfältesten, dort findest du ihn wahrscheinlich.                                                                                                                     ","DIA_ZARZADCA_WYSLANIKJESTEKURWO_03_04"
+
+"","","","","DIA_ZARZADCA_HOHO"
+"Arena manager","Nun, du hast dich in ziemliche Scheiße geritten.                                                                                                                     ","DIA_ZARZADCA_HOHO_03_01"
+"Romulus","","Was meinst du?                                                                                                                     ","DIA_ZARZADCA_HOHO_15_02"
+"Arena manager","Betritt die Arena.                                                                                                                     ","DIA_ZARZADCA_HOHO_03_03"
+
+"","","","","DIA_ZARZADCA_HELLO1222"
+"Arena manager","Na, wer hätte das gedacht.                                                                                                                     ","DIA_ZARZADCA_HELLO1222_03_01"
+"Arena manager","Hier ist deine Auszahlung.                                                                                                                     ","DIA_ZARZADCA_HELLO1222_03_02"
+
+"","","","","DIA_ZARZADCA_HOHOAA"
+"Arena manager","Auf in die Arena mit dir.                                                                                                                     ","DIA_ZARZADCA_HOHOAA_03_01"
+
+"","","","","DIA_ZARZADCA_PIZDARURAHAZ"
+"Romulus","","Ich möchte meine Belohnung für den Kampf einfordern!                                                                                                                     ","DIA_ZARZADCA_PIZDARURAHAZ_15_01"
+"Arena manager","Bitte schön!                                                                                                                     ","DIA_ZARZADCA_PIZDARURAHAZ_03_02"
+
+"","","","","DIA_ZARZADCA_HELLO1XDFA"
+"Romulus","","Ich bin bereit für einen weiteren Kampf!                                                                                                                     ","DIA_ZARZADCA_HELLO1XDFA_15_01"
+"Arena manager","Betritt die Arena, Largos wartet auf dich.                                                                                                                     ","DIA_ZARZADCA_HELLO1XDFA_03_02"
+
+"","","","","DIA_ZARZADCA_XDAD"
+"Romulus","","Ich bin bereit zu kämpfen.                                                                                                                     ","DIA_ZARZADCA_XDAD_15_01"
+"Arena manager","Dies ist der vorletzte Kampf. Dann willkommen in der Arena.                                                                                                                     ","DIA_ZARZADCA_XDAD_03_02"
+
+"","","","","DIA_ZARZADCA_LARGOSDAOWN"
+"Romulus","","Ich möchte meine Belohnung für den Sieg über Largos einfordern.                                                                                                                     ","DIA_ZARZADCA_LARGOSDAOWN_15_01"
+"Arena manager","Wie du meinst.                                                                                                                     ","DIA_ZARZADCA_LARGOSDAOWN_03_02"
+
+"","","","","DIA_ZARZADCA_DAWAJHASJIKAS"
+"Romulus","","Ich möchte die Belohnung für den Kampf einsammeln.                                                                                                                     ","DIA_ZARZADCA_DAWAJHASJIKAS_15_01"
+"Arena manager","Bitte und viel Glück im Kampf gegen den Champion.                                                                                                                     ","DIA_ZARZADCA_DAWAJHASJIKAS_03_02"
+
+"","","","","DIA_ZARZADCA_MASTERFARMER"
+"Romulus","","Ich bin bereit, gegen den Champion zu kämpfen.                                                                                                                     ","DIA_ZARZADCA_MASTERFARMER_15_01"
+"Arena manager","Der Tag ist also gekommen.                                                                                                                     ","DIA_ZARZADCA_MASTERFARMER_03_02"
+"Arena manager","Betritt die Arena.                                                                                                                     ","DIA_ZARZADCA_MASTERFARMER_03_03"
+
+"","","","","DIA_ZARZADCA_Deathsentence"
+"Arena manager","Du kommst zu spät zum Kampf. Du weißt was das bedeutet.                                                                                                                     ","DIA_ZARZADCA_Deathsentence_03_01"
+
+"","","","",""
+

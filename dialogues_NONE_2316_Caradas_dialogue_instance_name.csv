@@ -1,0 +1,49 @@
+"CHARACTER DESCRIPTION"
+"Imprisoned captain of the Guards. Exhausted by torture. In prison he speaks in a hushed voice. I will mark the dialogues he has outside the prison as 'OUTSIDE'."
+
+"","","","","DIA_Caradas_FirstMeet"
+"Caradas","Es war schwer, nicht zu lachen.                                                                                                                     ","DIA_Caradas_FirstMeet_03_01"
+"Caradas","Ich bezweifle, dass er nach dieser Dosis überhaupt aufwachen würde.                                                                                                                     ","DIA_Caradas_FirstMeet_03_02"
+"Caradas","Und du willst mich sicher befreien.                                                                                                                     ","DIA_Caradas_FirstMeet_03_03"
+"Romulus","","Du solltest durch die Kanalisation abhauen. Es ist weniger riskant als in die Innenstadt zu gehen.                                                                                                                     ","DIA_Caradas_FirstMeet_15_04"
+"Caradas","Wir haben herausgefunden, wie wir uns wenigstens an den Wachen rächen können. Uns fehlte eine Person von den Wächtern.                                                                                                                     ","DIA_Caradas_FirstMeet_03_05"
+"Caradas","Zeit, meinen Plan auszuführen. Die Gefangenen wollen kämpfen.                                                                                                                     ","DIA_Caradas_FirstMeet_03_06"
+"Caradas","Finde mindestens fünf Waffenpakete. Gib einen davon den Gefangenen in der nächsten Zelle.                                                                                                                     ","DIA_Caradas_FirstMeet_03_07"
+"Caradas","Lege den Rest in deine Truhe bei den Zellen auf der rechten Seite. Schließe sie aber nicht ab.                                                                                                                     ","DIA_Caradas_FirstMeet_03_08"
+"Caradas","Trage maximal zwei Pakete mit dir.                                                                                                                     ","DIA_Caradas_FirstMeet_03_09"
+"Caradas","Meine Gefängnistür lässt sich mit dem Schlüssel des Wärters öffnen. Sie sind wahrscheinlich in seinem Büro.                                                                                                                     ","DIA_Caradas_FirstMeet_03_10"
+"Caradas","Bestimme die Position des Schlüssels und stehle ein Stück Käse, wirf dann zuerst den Käse auf den Schlüssel und lass die Ratte den Rest machen.                                                                                                                     ","DIA_Caradas_FirstMeet_03_11"
+"Caradas","Hier ist ein verrückter Gefangener, der eine Ratte abgerichtet hat. Überzeuge ihn, dir zu Helfen.                                                                                                                     ","DIA_Caradas_FirstMeet_03_12"
+"Caradas","Bevor du das Büro betrittst, lege die Ratte auf den Boden und sie sollte eigentlich hineinlaufen.                                                                                                                     ","DIA_Caradas_FirstMeet_03_13"
+"Caradas","Vielleicht schluckt sie den Käse zusammen mit dem Schlüssel. Fange dann die Ratte und nimm dir den Schlüssel.                                                                                                                     ","DIA_Caradas_FirstMeet_03_14"
+"Caradas","Öffne die Gitter meiner Zelle, dann die Zelle nebenan, und wir können abhauen.                                                                                                                     ","DIA_Caradas_FirstMeet_03_15"
+"Caradas","Ich habe schon zu lange geredet.                                                                                                                     ","DIA_Caradas_FirstMeet_03_16"
+
+"","","","","DIA_Caradas_EntryCanals"
+"Caradas","Ich kann so nicht mehr weiterlaufen. Führe mich zu diesen Gittern.                                                                                                                     ","DIA_Caradas_EntryCanals_03_01"
+
+"","","","","DIA_Caradas_ExitCanals"
+"Caradas","Niemand sollte uns noch verfolgen.                                                                                                                     ","DIA_Caradas_ExitCanals_03_01"
+"Romulus","","Was ist mit diesen Gitterstäben?                                                                                                                     ","DIA_Caradas_ExitCanals_15_02"
+"Caradas","Ich habe eine Idee…                                                                                                                     ","DIA_Caradas_ExitCanals_03_03"
+
+"","","","","DIA_Caradas_EnterBeach"
+"(OUTSIDE)"
+"Caradas","Es sieht so aus, als ob wir jetzt nicht mehr weit von der Oberfläche entfernt sind.                                                                                                                     ","DIA_Caradas_EnterBeach_03_01"
+"Romulus","","Das denke ich auch.                                                                                                                     ","DIA_Caradas_EnterBeach_15_02"
+"Caradas","Von hier aus geht's weiter.                                                                                                                     ","DIA_Caradas_EnterBeach_03_03"
+
+"","","","","DIA_Caradas_PrisonBeach"
+"(OUTSIDE)"
+"Caradas","Du bist es! Sag mir, dass meine Leiden nicht umsonst war. Bist du Keldrom, der rechtmäßige Thronfolger?                                                                                                                     ","DIA_Caradas_PrisonBeach_03_01"
+
+"","","","","DIA_Caradas_PrisonBeach_Tired"
+"(OUTSIDE)"
+"Caradas","Du sprachst von den Rebellen? Erzähl mir mehr über sie.                                                                                                                     ","DIA_Caradas_PrisonBeach_Tired_03_01"
+
+"","","","","DIA_Caradas_PrisonBeach_End"
+"(OUTSIDE)"
+"Caradas","Ich mache mich auf den Weg. Ich freue mich auf das nächste Treffen.                                                                                                                     ","DIA_Caradas_PrisonBeach_End_03_01"
+
+"","","","",""
+
