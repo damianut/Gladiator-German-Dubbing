@@ -1,0 +1,24 @@
+"CHARACTER DESCRIPTION"
+"Guard. Twin brother of Moltar."
+
+"","","","","DIA_Poltar_HELLO1"
+"Poltar","Du bist der Gladiator, der uns helfen soll?                                                                                                                     ","DIA_Poltar_HELLO1_03_01"
+"Romulus","","(bedächtig) Genau.                                                                                                                     ","DIA_Poltar_HELLO1_15_02"
+"Poltar","Machen wir uns an die Arbeit. Hinter dieser Tür sollten einige Crawler sein.                                                                                                                     ","DIA_Poltar_HELLO1_03_03"
+"Poltar","Dann lass es uns Erledigen.                                                                                                                     ","DIA_Poltar_HELLO1_03_04"
+
+"","","","","DIA_Poltar_HELLO2"
+(he is happy because of killed minecrawlers)
+"Poltar","So Mission erledigt. So viele waren es ja nicht.                                                                                                                     ","DIA_Poltar_HELLO2_03_01"
+"Poltar","Du kannst weiter nach oben gehen. Dieser Weg führt dich zum Steilhang, von dort aus hat man eine schöne Aussicht.                                                                                                                     ","DIA_Poltar_HELLO2_03_02"
+"Romulus","","Was ist, wenn dort ein Crawler ist?                                                                                                                     ","DIA_Poltar_HELLO2_15_03"
+"Poltar","Es wird kein Crawler da sein. Wenn ja, hätte er gehört, dass wir seine Freunde töten, hehe.                                                                                                                     ","DIA_Poltar_HELLO2_03_04"
+"Poltar","Wir kehren ins Dorf zurück.                                                                                                                     ","DIA_Poltar_HELLO2_03_05"
+
+"","","","","DIA_Poltar_MoltarKilled"
+(his brother is dead)
+"Poltar","Und warum sollte jemand diese Mine wollen?                                                                                                                     ","DIA_Poltar_MoltarKilled_07_00"
+"Poltar","Zurück zum Dorf. Hole dir deine Belohnung..                                                                                                                     ","DIA_Poltar_MoltarKilled_07_01"
+
+"","","","",""
+

@@ -1,0 +1,29 @@
+"CHARACTER DESCRIPTION"
+"Robert's pal. Funny dialogues."
+
+"","","","","DIA_Tragor_HELLO1"
+"Romulus","","Ich könnte dich und deine Axt gebrauchen.                                                                                                                     ","DIA_Tragor_HELLO1_15_01"
+"Tragor","Meine Axt? Sehe ich aus wie jemand, der dir helfen wird?                                                                                                                     ","DIA_Tragor_HELLO1_03_02"
+"Romulus","","Ein bisschen.                                                                                                                     ","DIA_Tragor_HELLO1_15_03"
+"Tragor","Womit kann ich dir helfen?                                                                                                                     ","DIA_Tragor_HELLO1_03_04"
+"Romulus","","Eigentlich brauche ich deine und die Hilfe deines Freundes. Ein Kampf erwartet mich…                                                                                                                     ","DIA_Tragor_HELLO1_15_05"
+"Tragor","Augenblick! Ja! Du bist ein Gladiator…                                                                                                                     ","DIA_Tragor_HELLO1_03_06"
+"Tragor","Ich versuche herauszufinden, woher ich dein Gesicht kenne!                                                                                                                     ","DIA_Tragor_HELLO1_03_07"
+"Romulus","","Ja, ich bin ein Gladiator und stehe vor einem Drei-gegen-Drei-Teamkampf und habe keine Gefährten.                                                                                                                     ","DIA_Tragor_HELLO1_15_08"
+"Tragor","Mann! Wir werden in der Arena auf Leben und Tod kämpfen? Dazu bin ich nicht bereit!                                                                                                                     ","DIA_Tragor_HELLO1_03_09"
+"Tragor","Sprich mit Robert. Dieser ist ständig deprimiert und kümmert sich wahrscheinlich nicht darum!                                                                                                                     ","DIA_Tragor_HELLO1_03_10"
+
+"","","","","DIA_TRAGOR_HELLO2"
+"Tragor","IN EINER MINUTE! Ich lasse diesen Idioten nicht allein. Ich bin auch bei dir.                                                                                                                     ","DIA_TRAGOR_HELLO2_03_01"
+"Romulus","","Das freut mich zu hören.                                                                                                                     ","DIA_TRAGOR_HELLO2_15_02"
+"Romulus","","Ich werde jetzt zum Arenaleiter zurückkehren und ihn wissen lassen, dass ich gute Begleiter habe, um zu helfen.                                                                                                                     ","DIA_TRAGOR_HELLO2_15_03"
+
+"","","","","DIA_TRAGOR_WON"
+"Tragor","Warum sollte ich mich überreden lassen?                                                                                                                     ","DIA_TRAGOR_WON_03_01"
+"Tragor","Jeder sollte gleich viel bekommen. Gib mir und Robert unseren Anteil.                                                                                                                     ","DIA_TRAGOR_WON_03_02"
+"Romulus","","Bitte, ich denke, das war's.                                                                                                                     ","DIA_TRAGOR_WON_15_03"
+"Tragor","Ich werde es in der Taverne versaufen…                                                                                                                     ","DIA_TRAGOR_WON_03_04"
+"Tragor","Siehst du? Auf deine Kameraden kannst du dich verlassen, dann gib mir mal meinen Anteil.                                                                                                                     ","DIA_TRAGOR_WON_03_05"
+
+"","","","",""
+

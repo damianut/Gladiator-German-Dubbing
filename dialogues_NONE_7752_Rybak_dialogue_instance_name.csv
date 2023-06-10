@@ -1,0 +1,15 @@
+"CHARACTER DESCRIPTION"
+"Drinker. When sober, he fishes. Until Romulus steals his boat."
+
+"","","","","DIA_Rybak_MYBOAT"
+"Fisherman","Versuche nicht einmal, mein Boot zu stehlen!                                                                                                                     ","DIA_Rybak_MYBOAT_03_01"
+"Romulus","","Das würde ich niemals tun.                                                                                                                     ","DIA_Rybak_MYBOAT_15_02"
+"Fisherman","Dann runter vom Pier, du hast hier nichts zu suchen!                                                                                                                     ","DIA_Rybak_MYBOAT_03_03"
+
+"","","","","DIA_Rybak_WHEREMYBOAT"
+"Fisherman","Jemand hat mein Boot gestohlen. Weißt du etwas darüber?                                                                                                                     ","DIA_Rybak_WHEREMYBOAT_03_01"
+"Romulus","","Gestohlen? Warst es nicht du, der kürzlich das Boot beim Poker verwettet hatte?                                                                                                                     ","DIA_Rybak_WHEREMYBOAT_15_02"
+"Fisherman","Äh.. Dieser Alkohol wird mich ruinieren. Wovon soll ich jetzt leben.                                                                                                                     ","DIA_Rybak_WHEREMYBOAT_03_03"
+
+"","","","",""
+

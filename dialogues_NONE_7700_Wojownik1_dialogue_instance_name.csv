@@ -1,0 +1,14 @@
+"CHARACTER DESCRIPTION"
+"Warrior from training arena."
+
+"","","","","DIA_WojownikN_FIGHT"
+"(when Romulus want to fight with warrior)"
+"Romulus","","Ich will gegen dich kämpfen, lass uns die Arena betreten.                                                                                                                     ","DIA_WojownikN_FIGHT_15_01"
+"Warrior","Na dann los, lass uns gehen.                                                                                                                     ","DIA_WojownikN_FIGHT_03_02"
+
+"","","","","DIA_Wojownik1_AFTERFIGHT"
+"(after fight with warrior)"
+"Warrior","Da kann ich nur zustimmen.                                                                                                                     ","DIA_Wojownik1_AFTERFIGHT_03_02"
+
+"","","","",""
+

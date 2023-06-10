@@ -1,0 +1,23 @@
+"CHARACTER DESCRIPTION"
+"Hunter. He is hunting with Romulus on dragon."
+
+"","","","","DIA_GEORGE_HUNTSTART"
+"Romulus","","Wir müssen ein mächtiges Monster finden.                                                                                                                     ","DIA_GEORGE_HUNTSTART_15_01"
+"George","Ja, lass uns das Monster finden, bevor es uns findet. Lass uns losgehen.                                                                                                                     ","DIA_GEORGE_HUNTSTART_03_02"
+
+"","","","","DIA_GEORGE_HUNTGO1"
+"George","Das hat etwas geschnarcht. Im Schlaf wird es leicht es zu überraschen.                                                                                                                     ","DIA_GEORGE_HUNTGO1_03_01"
+
+"","","","","DIA_GEORGE_HUNTGO2"
+"George","Ach du Scheiße! Gehen wir?                                                                                                                     ","DIA_GEORGE_HUNTGO2_03_01"
+"Romulus","","Renn was du kannst!                                                                                                                     ","DIA_GEORGE_HUNTGO2_15_02"
+"Romulus","","Was für ein Jäger bist du? Soll dieser Drache weiter im Wald wüten?                                                                                                                     ","DIA_GEORGE_HUNTGO2_15_03"
+
+"","","","","DIA_GEORGE_DRAGONKILLED"
+"George","Ich frage mich, wie der Boss auf solche Trophäen reagieren wird. Gehen wir zurück ins Lager!                                                                                                                     ","DIA_GEORGE_DRAGONKILLED_03_01"
+
+"","","","","DIA_MYSLIWY_RANDOM9"
+"George","Verhungern kann man hier nicht.                                                                                                                     ","DIA_MYSLIWY_RANDOM9_03_01"
+
+"","","","",""
+
