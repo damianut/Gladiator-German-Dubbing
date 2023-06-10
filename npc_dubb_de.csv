@@ -58,7 +58,7 @@
 "NONE_2301_Prisoner","Prisoner","","confident","short","quaternary","self-confident",""
 "NONE_5200_Niewolnik","Slave","","Slave being led into a cave with Romulus","short","quaternary","sad",""
 "NONE_5201_Niewolnik","Slave","","Slave being led into a cave with Romulus","short","quaternary","self-confident|aggresive",""
-"NONE_5203_Niewolnik","Slave","","Slave being led into a cave with Romulus","short","quaternary","worried|stupid",""
+"NONE_5203_Niewolnik","Slave","","Slave being led into a cave with Romulus","short","quaternary","worried",""
 "NONE_5391_Pasterz","Shepherd","","","short","quaternary","old",""
 "NONE_5319_Czeladnik2","Apprentice","The alchemist's apprentice","","short","quaternary","young",""
 "NONE_5660_Garg","Garg","tournament's pretender","A donkey from the village of Gallen.","short","tertiary","stupid",""
