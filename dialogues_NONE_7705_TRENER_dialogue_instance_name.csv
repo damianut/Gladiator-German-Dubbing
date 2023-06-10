@@ -1,0 +1,49 @@
+"CHARACTER DESCRIPTION"
+"Trainer from training arena."
+
+"","","","","DIA_TRENER_HEJTY"
+"Trainer","Hey! Ich kenne dich nicht, du bist neu, oder?                                                                                                                     ","DIA_TRENER_HEJTY_03_01"
+"Romulus","","Ja, ich bin erst seit kurzem hier.                                                                                                                     ","DIA_TRENER_HEJTY_15_02"
+"Trainer","Du siehst aus wie ein Sklave, obwohl Sie wahrscheinlich keiner sind, stimmt's?                                                                                                                     ","DIA_TRENER_HEJTY_03_03"
+"Romulus","","Sie sagen, ich soll ein Gladiator werden, wenn ich den morgigen Kampf überlebe.                                                                                                                     ","DIA_TRENER_HEJTY_15_04"
+"Trainer","Verstehe.                                                                                                                     ","DIA_TRENER_HEJTY_03_05"
+"Romulus","","Was gibt es denn hier?                                                                                                                     ","DIA_TRENER_HEJTY_15_06"
+"Trainer","Das? Das ist ein Trainingsplatz. Wir sind keine Gladiatoren, aber leidenschaftliche Kämpfer.                                                                                                                     ","DIA_TRENER_HEJTY_03_07"
+"Trainer","Ich habe einen Vorschlag für dich. Du kannst bei uns trainieren, was sagst du?                                                                                                                     ","DIA_TRENER_HEJTY_03_08"
+"Trainer","Die Jungs werden gerne gegen dich kämpfen.                                                                                                                     ","DIA_TRENER_HEJTY_03_09"
+"Romulus","","Sicher warum nicht.                                                                                                                     ","DIA_TRENER_HEJTY_15_10"
+"Trainer","Sehr schön. Gehe zum Schiedsrichter, er erklärt dir die Regeln des Kampfes, denn die sind anders als in der großen Arena.                                                                                                                     ","DIA_TRENER_HEJTY_03_11"
+"Romulus","","Okay, ist er hier in der nähe zu finden?                                                                                                                     ","DIA_TRENER_HEJTY_15_12"
+"Trainer","Ja, der Glatzkopf auf dem Hocker da.                                                                                                                     ","DIA_TRENER_HEJTY_03_13"
+
+"","","","","DIA_TRENER_GOTOWY"
+"Romulus","","Ich kenne die Regeln, kann ich jetzt hier kämpfen?                                                                                                                     ","DIA_TRENER_GOTOWY_15_01"
+"Trainer","Proxemo verfügte kürzlich, dass Sklaven, die hier trainieren wollten, Gladiatoren werden mussten.                                                                                                                     ","DIA_TRENER_GOTOWY_03_02"
+"Trainer","Hast du einen solchen Status?                                                                                                                     ","DIA_TRENER_GOTOWY_03_03"
+"Romulus","","Bisher noch nicht. Ich muss ein Ausscheidungsspiel gewinnen.                                                                                                                     ","DIA_TRENER_GOTOWY_15_04"
+"Trainer","Dann wünsche ich dir viel Glück. Komm zurück, wenn du gewinnst.                                                                                                                     ","DIA_TRENER_GOTOWY_03_05"
+"Romulus","","Äh, okay.                                                                                                                     ","DIA_TRENER_GOTOWY_15_06"
+
+"","","","","DIA_TRENER_GOTOWYREAL"
+"Romulus","","Ich habe meinen ersten Kampf gewonnen, ich bin nun ein Gladiator.                                                                                                                     ","DIA_TRENER_GOTOWYREAL_15_01"
+"Trainer","Dann sehe ich kein Problem darin, dass du hier trainierst.                                                                                                                     ","DIA_TRENER_GOTOWYREAL_03_02"
+"Trainer","Sprich mit den Jungs. Sie werden definitiv gegen dich kämpfen wollen.                                                                                                                     ","DIA_TRENER_GOTOWYREAL_03_03"
+"Trainer","Und hole dir natürlich eine Reihe von Waffen von der Wache, die du hier verwenden kannst.                                                                                                                     ","DIA_TRENER_GOTOWYREAL_03_04"
+"Trainer","Du kannst deine Waffen nicht benutzen. Darüber hinaus musst du auch eine Trainingsrüstung tragen, die du auch von der Wache abholst, so lauten die Regeln. Viel Glück.                                                                                                                     ","DIA_TRENER_GOTOWYREAL_03_05"
+
+"","","","","DIA_TRENER_READYTOBOSS"
+"Trainer","Ich sehe, du machst dich gut im Training mit meinen Jungs.                                                                                                                     ","DIA_TRENER_READYTOBOSS_03_01"
+"Trainer","Wenn du den vorletzten Kampf des Turniers überlebst, kontaktiere mich bitte. Wir werden dann Trainieren.                                                                                                                     ","DIA_TRENER_READYTOBOSS_03_02"
+
+"","","","","DIA_TRENER_DIA_TRENER_FIGHTBOSS"
+"Romulus","","Ich will gegen dich kämpfen.                                                                                                                     ","DIA_TRENER_DIA_TRENER_FIGHTBOSS_15_01"
+"Trainer","So lass uns gehen.                                                                                                                     ","DIA_TRENER_DIA_TRENER_FIGHTBOSS_03_02"
+
+"","","","","DIA_TRENER_DIA_TRENER_FIGHTBOSSAFTER"
+"Trainer","Viel Glück mit Hermes!                                                                                                                     ","DIA_TRENER_DIA_TRENER_FIGHTBOSSAFTER_03_01"
+
+"","","","","DIA_TRENER_DIA_TRENER_NOFIGHT"
+"Trainer","Ruhe dich besser aus, bevor du gegen den Champion kämpfst! Ich Gönne meinen Jungs auch eine Pause.                                                                                                                     ","DIA_TRENER_DIA_TRENER_NOFIGHT_03_01"
+
+"","","","",""
+

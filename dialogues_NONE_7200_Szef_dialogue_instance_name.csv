@@ -1,0 +1,101 @@
+"CHARACTER DESCRIPTION"
+"Chief of hunters"
+
+"","","","","DIA_Szef_HELLO1"
+"Chief of hunters","Hey! Was machst du in meinem Lager?                                                                                                                     ","DIA_Szef_HELLO1_03_01"
+"Romulus","","Ich wollte mich hier nur mal umschauen.                                                                                                                     ","DIA_Szef_HELLO1_15_02"
+"Chief of hunters","Ach? Und? Hmm, du siehst anders aus als die anderen, wer bist du?                                                                                                                     ","DIA_Szef_HELLO1_03_03"
+"Romulus","","Ich bin der Champion der Gladiatoren-Bucht.                                                                                                                     ","DIA_Szef_HELLO1_15_04"
+"Chief of hunters","So? Bist du? In diesem Fall sollte ich mich vor dir verneigen.                                                                                                                     ","DIA_Szef_HELLO1_03_05"
+"Romulus","","Lassen wir das. Ich will nicht, dass sich jemand vor mir verbeugt.                                                                                                                     ","DIA_Szef_HELLO1_15_06"
+"Romulus","","Ich habe gehört, du jagst in dem großen Wald nebenan.                                                                                                                     ","DIA_Szef_HELLO1_15_07"
+"Chief of hunters","(bedächtig) Genau. Das ist unsere Arbeit und Lebensart.                                                                                                                     ","DIA_Szef_HELLO1_03_08"
+"Chief of hunters","Ich habe einen Vorschlag für dich.                                                                                                                     ","DIA_Szef_HELLO1_03_09"
+"Chief of hunters","Du hast deinen ersten Kampf in unserer Arena gewonnen, also glaube ich, dass du der Champion bist.                                                                                                                     ","DIA_Szef_HELLO1_03_10"
+"Chief of hunters","Also kannst du wahrscheinlich mit der Waffe umgehen. Begleite uns, du wirst von Zeit zu Zeit mit uns jagen. Was denkst du?                                                                                                                     ","DIA_Szef_HELLO1_03_11"
+"Chief of hunters","Da du der Champion der Gladiatorenbucht bist, wirst du deinen ersten Kampf in unserer Arena problemlos gewinnen.                                                                                                                     ","DIA_Szef_HELLO1_03_12"
+"Chief of hunters","Tuh das und schließe dich uns an, du wirst von Zeit zu Zeit mit uns jagen. Was denkst du?                                                                                                                     ","DIA_Szef_HELLO1_03_13"
+"Chief of hunters","Ich denke, es wird eine interessante Ablenkung von den ständigen Kämpfen in der Arena sein.                                                                                                                     ","DIA_Szef_HELLO1_03_14"
+"Romulus","","Sicher. Sobald ich meinen ersten Kampf gewinne, melde ich mich bei euch.                                                                                                                     ","DIA_Szef_HELLO1_15_15"
+"Chief of hunters","Super, darauf freue ich mich schon.                                                                                                                     ","DIA_Szef_HELLO1_03_16"
+
+"","","","","DIA_Szef_HELLO1LATER"
+"Romulus","","Klar, ich will mit dir jagen.                                                                                                                     ","DIA_Szef_HELLO1LATER_15_01"
+"Chief of hunters","Dann willkommen im Team, Junge.                                                                                                                     ","DIA_Szef_HELLO1LATER_03_02"
+"Chief of hunters","Wenn du bereit bist zu jagen, komm zu mir.                                                                                                                     ","DIA_Szef_HELLO1LATER_03_03"
+"Chief of hunters","Melde dich auch nach der Jagd gegen Bezahlung bei mir, wenn du mit deinem Begleiter zurückkehrst.                                                                                                                     ","DIA_Szef_HELLO1LATER_03_04"
+"Romulus","","Ich werde daran denken.                                                                                                                     ","DIA_Szef_HELLO1LATER_15_05"
+
+"","","","","DIA_Szef_POLOWANIE1"
+"Romulus","","Ich bin bereit zu jagen.                                                                                                                     ","DIA_Szef_POLOWANIE1_15_01"
+"Chief of hunters","In Ordnung, heute gehst du mit Sparky. Du findest ihn irgendwo im Lager.                                                                                                                     ","DIA_Szef_POLOWANIE1_03_02"
+"Romulus","","Sollen wir zu zweit gehen?                                                                                                                     ","DIA_Szef_POLOWANIE1_15_03"
+"Chief of hunters","Die Jungen müssen sich beweisen. Was bringt es, mehrere Leute auf eine Jagd zu schicken? Wenigstens gibt es bei uns Regeln.                                                                                                                     ","DIA_Szef_POLOWANIE1_03_04"
+"Chief of hunters","Geh jetzt.                                                                                                                     ","DIA_Szef_POLOWANIE1_03_05"
+"Romulus","","Alles klar.                                                                                                                     ","DIA_Szef_POLOWANIE1_15_06"
+
+"","","","","DIA_Szef_POLOWANIE2"
+"Chief of hunters","In Ordnung, Ulgin ist irgendwo im Lager. Du wirst heute mit ihm auf die Jagd gehen.                                                                                                                     ","DIA_Szef_POLOWANIE2_03_02"
+
+"","","","","DIA_Szef_POLOWANIE3"
+"Chief of hunters","Schon klar. Certix wartet bereits auf dich. Ich habe ihm gesagt, dass ihr beide zusammen gehen würdet. Los Gladiator!                                                                                                                     ","DIA_Szef_POLOWANIE3_03_02"
+
+"","","","","DIA_Szef_POLOWANIE4"
+"Chief of hunters","Du wirst mit Pitos jagen. Du findest ihn bei uns im Lager. Viel Glück!                                                                                                                     ","DIA_Szef_POLOWANIE4_03_02"
+
+"","","","","DIA_Szef_POLOWANIE5"
+"Chief of hunters","Jinks wartet auf dich.                                                                                                                     ","DIA_Szef_POLOWANIE5_03_02"
+
+"","","","","DIA_Szef_POLOWANIE6"
+"Chief of hunters","Alles klar. Suche Rodney im Lager, du wirst heute mit ihm jagen.                                                                                                                     ","DIA_Szef_POLOWANIE6_03_02"
+
+"","","","","DIA_Szef_POLOWANIE7"
+"Chief of hunters","Okay, Carl wartet auf dich.                                                                                                                     ","DIA_Szef_POLOWANIE7_03_02"
+
+"","","","","DIA_Szef_POLOWANIE8"
+"Chief of hunters","In Ordnung, du gehst heute mit Wilgo. Du findest ihn bei uns im Lager.                                                                                                                     ","DIA_Szef_POLOWANIE8_03_02"
+
+"","","","","DIA_Szef_POLOWANIE9"
+"Chief of hunters","Du hast an allen Jagden teilgenommen.                                                                                                                     ","DIA_Szef_POLOWANIE9_03_02"
+"Chief of hunters","Heute wird die letzte sein, anscheinend ist eine riesige Kreatur im Wald aufgetaucht, es ist nicht genau bekannt, was es ist.                                                                                                                     ","DIA_Szef_POLOWANIE9_03_03"
+"Chief of hunters","Finde Georg im Lager, mit ihm gehst du in den Wald.                                                                                                                     ","DIA_Szef_POLOWANIE9_03_04"
+"Chief of hunters","Du warst nicht auf jeder Jagd, aber du bist ja jetzt der Champion der Arena, also kann ich dir vertrauen.                                                                                                                     ","DIA_Szef_POLOWANIE9_03_05"
+"Chief of hunters","Ich meine die Gerüchte, wonach eine Kreatur von großer Statur im Wald aufgetaucht ist.                                                                                                                     ","DIA_Szef_POLOWANIE9_03_06"
+"Chief of hunters","Geh mit George hin und sieh nach.                                                                                                                     ","DIA_Szef_POLOWANIE9_03_07"
+
+"","","","","DIA_Szef_AFTERESCAPE"
+"Chief of hunters","Und was hast du dort gefunden?                                                                                                                     ","DIA_Szef_AFTERESCAPE_03_01"
+"Romulus","","Drachen!                                                                                                                     ","DIA_Szef_AFTERESCAPE_15_02"
+"Chief of hunters","Wir hätten ihn töten sollen!                                                                                                                     ","DIA_Szef_AFTERESCAPE_03_03"
+"Chief of hunters","Für das wegrennen gibt es keine Belohnung…                                                                                                                     ","DIA_Szef_AFTERESCAPE_03_04"
+
+"","","","","DIA_Szef_DRAGONKILLED"
+"Chief of hunters","Der Drache flog in den Wald, erstaunlich!                                                                                                                     ","DIA_Szef_DRAGONKILLED_03_01"
+"Chief of hunters","Ausgezeichnete Arbeit.                                                                                                                     ","DIA_Szef_DRAGONKILLED_03_02"
+
+"","","","","DIA_Szef_LOSTGEORGE"
+"Chief of hunters","Wo ist Georg?                                                                                                                     ","DIA_Szef_LOSTGEORGE_03_01"
+"Romulus","","Ich weiß nicht, ich bin weggelaufen, weil wir angegriffen wurden.                                                                                                                     ","DIA_Szef_LOSTGEORGE_15_02"
+"Chief of hunters","Ich will dieses Märchen nicht hören. Wahrscheinlich gab es darin auch noch Drachen? Du wirst nicht mehr mit uns jagen.                                                                                                                     ","DIA_Szef_LOSTGEORGE_03_03"
+
+"","","","","DIA_Szef_LOST"
+"Chief of hunters","Wo ist Georg?                                                                                                                     ","DIA_Szef_LOST_03_01"
+
+"","","","","DIA_Szef_WONALONE"
+"Romulus","","Er starb. Er wurde von einem Drachen getötet.                                                                                                                     ","DIA_Szef_WONALONE_15_02"
+"Chief of hunters","Von einem Drachen? Dein Gefährte ist tot, also lasse ich dich nicht wieder jagen.                                                                                                                     ","DIA_Szef_WONALONE_03_03"
+"Chief of hunters","Schauen wir uns diesen Drachen an …                                                                                                                     ","DIA_Szef_WONALONE_03_04"
+
+"","","","","DIA_Szef_REWARD"
+"Chief of hunters","Okay, hier ist dein Geld.                                                                                                                     ","DIA_Szef_REWARD_03_01"
+
+"","","","","DIA_Szef_CHANGEDMIND"
+"Chief of hunters","Warum hast du mir gesagt, dass du auf die Jagd gehen willst, wenn du nicht gegangen bist?                                                                                                                     ","DIA_Szef_CHANGEDMIND_03_01"
+"Chief of hunters","Ein Jäger muss agil, listig, aber entschlossen sein!                                                                                                                     ","DIA_Szef_CHANGEDMIND_03_02"
+
+"","","","","DIA_Szef_DISALLOW"
+"Chief of hunters","Lass deine Begleiter nicht allein! Solche Jäger brauchen wir nicht.                                                                                                                     ","DIA_Szef_DISALLOW_03_01"
+"Chief of hunters","Wir haben einen Gefährten verloren. Du brauchst hier nicht mehr auftauchen!                                                                                                                     ","DIA_Szef_DISALLOW_03_02"
+
+"","","","",""
+

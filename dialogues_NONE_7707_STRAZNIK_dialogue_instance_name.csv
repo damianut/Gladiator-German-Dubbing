@@ -1,0 +1,17 @@
+"CHARACTER DESCRIPTION"
+"Guard."
+
+"","","","","DIA_7707_GETWEAPON"
+"Romulus","","Ich möchte meine Trainingswaffen abholen.                                                                                                                     ","DIA_7707_GETWEAPON_15_01"
+"Guard","Hier hast du dein Kostenloses Waffenset.                                                                                                                     ","DIA_7707_GETWEAPON_03_02"
+"Guard","Wenn du dieses Waffenset jedoch verlierst, musst du für das nächste 30 Gold bezahlen.                                                                                                                     ","DIA_7707_GETWEAPON_03_03"
+
+"","","","","DIA_7707_BUYWEAPON"
+"Romulus","","Ich möchte einen weiteren Satz Trainingswaffen.                                                                                                                     ","DIA_7707_BUYWEAPON_15_01"
+"Guard","Der Preis beträgt 30 Gold. Du hast so viel Gold?                                                                                                                     ","DIA_7707_BUYWEAPON_03_02"
+"Romulus","","Leider nicht.                                                                                                                     ","DIA_7707_BUYWEAPON_15_03"
+"Guard","Hier hast du sie. Ein weiterer Satz Waffen.                                                                                                                     ","DIA_7707_BUYWEAPON_03_04"
+"Romulus","","Sicher.                                                                                                                     ","DIA_7707_BUYWEAPON_15_05"
+
+"","","","",""
+

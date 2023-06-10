@@ -1,0 +1,43 @@
+"CHARACTER DESCRIPTION"
+"Barber. A bit sadistic."
+
+"","","","","DIA_CYRULIK_START"
+"Romulus","","Wer bist du?                                                                                                                     ","DIA_CYRULIK_START_15_01"
+"Barber","Ich bin Arzt und behandle Verletzungen.                                                                                                                     ","DIA_CYRULIK_START_03_02"
+"Barber","Wenn du verletzt bist und genug Gold hast, helfe ich dir.                                                                                                                     ","DIA_CYRULIK_START_03_03"
+
+"","","","","DIA_CYRULIK_LEARNINFO"
+"Romulus","","Kannst du mir beibringen, wie man Verletzungen vermeidet?                                                                                                                     ","DIA_CYRULIK_LEARNINFO_15_01"
+"Barber","Wenn du genug Lernpunkte und 100 Gold hast.                                                                                                                     ","DIA_CYRULIK_LEARNINFO_03_02"
+
+"","","","","DIA_CYRULIK_REHAB"
+"Romulus","","Ich bin verletzt.                                                                                                                     ","DIA_CYRULIK_REHAB_15_01"
+"Barber","Du hast dich ein bisschen verletzt.                                                                                                                     ","DIA_CYRULIK_REHAB_03_02"
+"Barber","Ich helfe dir für 50 Gold.                                                                                                                     ","DIA_CYRULIK_REHAB_03_03"
+"Barber","Gebrochener Arm. Kann aber angepasst werden.                                                                                                                     ","DIA_CYRULIK_REHAB_03_04"
+"Barber","Für 100 Gold.                                                                                                                     ","DIA_CYRULIK_REHAB_03_05"
+"Barber","Ich glaube, sie haben dir die Rippe gebrochen.                                                                                                                     ","DIA_CYRULIK_REHAB_03_06"
+"Barber","Für 150 Gold helfe ich dir.                                                                                                                     ","DIA_CYRULIK_REHAB_03_07"
+"Barber","Ooh, Schädelbruch.                                                                                                                     ","DIA_CYRULIK_REHAB_03_08"
+"Barber","Dafür nehme ich 200 Gold.                                                                                                                     ","DIA_CYRULIK_REHAB_03_09"
+"Barber","Du hast so viel Geld?                                                                                                                     ","DIA_CYRULIK_REHAB_03_10"
+"Romulus","","Sicher.                                                                                                                     ","DIA_CYRULIK_REHAB_15_11"
+"Romulus","","Leider nicht.                                                                                                                     ","DIA_CYRULIK_REHAB_15_13"
+"Barber","Dann komm zurück, wenn du Gold hast.                                                                                                                     ","DIA_CYRULIK_REHAB_03_14"
+
+"","","","","DIA_CYRULIK_LEARN"
+"Romulus","","Ich möchte meine Verletzungsresistenz erhöhen.                                                                                                                     ","DIA_CYRULIK_LEARN_15_01"
+"Barber","Niemand ist unzerstörbar. Ich kann dir nichts mehr beibringen.                                                                                                                     ","DIA_CYRULIK_LEARN_03_02"
+"Barber","Wenn du genug Lernpunkte und Gold hast.                                                                                                                     ","DIA_CYRULIK_LEARN_03_03"
+"Barber","Also werde ausdauernder und belastbarer!                                                                                                                     ","DIA_CYRULIK_LEARN_03_04"
+"Barber","Sehr gut, direkt besser.                                                                                                                     ","DIA_CYRULIK_LEARN_03_06"
+"Barber","Komm zurück, wenn du genug Gold und Erfahrung hast.                                                                                                                     ","DIA_CYRULIK_LEARN_03_07"
+
+"","","","","DIA_CYRULIK_WHYYOURTENTISHERE"
+"Romulus","","Warum steht dein Zelt hier oben?                                                                                                                     ","DIA_CYRULIK_WHYYOURTENTISHERE_15_01"
+"Romulus","","Ist es für Verletzte nicht zu schwierig, hierher zu kommen?                                                                                                                     ","DIA_CYRULIK_WHYYOURTENTISHERE_15_02"
+"Barber","Wenn sie nicht in der Lage sind, hierher zu kommen, würde ich ihnen um keinen Preis helfen.                                                                                                                     ","DIA_CYRULIK_WHYYOURTENTISHERE_03_03"
+"Romulus","","Verstehe.                                                                                                                     ","DIA_CYRULIK_WHYYOURTENTISHERE_15_04"
+
+"","","","",""
+
