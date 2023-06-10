@@ -1,0 +1,22 @@
+"CHARACTER DESCRIPTION"
+"guard, buffoon and stupid"
+
+"","","","","DIA_NONE_5140_Ochroniarz_FirstWarn"
+"Bodyguard","Wohin gehst du, Hund?                                                                                                                     ","DIA_NONE_5140_Ochroniarz_FirstWarn_03_01"
+"Bodyguard","Du hast hier keinen Zutritt, du darfst den ehrenwerten Herrn Proxemo nicht stören.                                                                                                                     ","DIA_NONE_5140_Ochroniarz_FirstWarn_03_02"
+"Romulus","","Aber ich sehe Proxemo hier nicht.                                                                                                                     ","DIA_NONE_5140_Ochroniarz_FirstWarn_15_03"
+"Bodyguard","Siehst du überhaupt etwas!? Mach, dass du wegkommst!                                                                                                                     ","DIA_NONE_5140_Ochroniarz_FirstWarn_03_04"
+
+"","","","","DIA_NONE_5140_Ochroniarz_SecondWarn"
+"Bodyguard","Noch ein Schritt und wir verfüttern deine Leiche an die Tiere in der Arena!                                                                                                                     ","DIA_NONE_5140_Ochroniarz_SecondWarn_03_01"
+
+"","","","","DIA_NONE_5140_Ochroniarz_Attack"
+"Bodyguard","Wie du möchtest!                                                                                                                     ","DIA_NONE_5140_Ochroniarz_Attack_03_01"
+
+"","","","","DIA_NONE_5140_Ochroniarz_Pass"
+"Bodyguard","Was?                                                                                                                     ","DIA_NONE_5140_Ochroniarz_Pass_03_01"
+"Romulus","","Proxemo hat nach mir gerufen.                                                                                                                     ","DIA_NONE_5140_Ochroniarz_Pass_15_02"
+"Bodyguard","Herr Proxemo! Das weiß ich bereits, rein mit dir.                                                                                                                     ","DIA_NONE_5140_Ochroniarz_Pass_03_03"
+
+"","","","",""
+

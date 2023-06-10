@@ -1,0 +1,26 @@
+"CHARACTER DESCRIPTION"
+"Hunter"
+
+"","","","","DIA_Mysliwy_LETSHUNT1"
+"Romulus","","Wir sollen auf die Jagd gehen.                                                                                                                     ","DIA_Mysliwy_LETSHUNT1_15_01"
+"Sparky","Also nichts wie ab in den Wald!                                                                                                                     ","DIA_Mysliwy_LETSHUNT1_03_02"
+
+"","","","","DIA_Mysliwy_WAITSPARKY"
+"Sparky","In Ordnung, lass uns tiefer in den Wald gehen.                                                                                                                     ","DIA_Mysliwy_WAITSPARKY_03_01"
+"Romulus","","Weiter.                                                                                                                     ","DIA_Mysliwy_WAITSPARKY_15_02"
+
+"","","","","DIA_Mysliwy_FINALSPARKY"
+"Sparky","Mmh… Ich denke, das ist alles.                                                                                                                     ","DIA_Mysliwy_FINALSPARKY_03_01"
+"Sparky","Aber wir kehren mitten im Wald zurück, vielleicht taucht zum Nachtisch ein Reh auf.                                                                                                                     ","DIA_Mysliwy_FINALSPARKY_03_02"
+
+"","","","","DIA_Mysliwy_BACKTOCAMPSPARKY"
+"Sparky","Das war's. Alles, was hier herumstreifte, wurde gejagt. Gute Arbeit. Du bist ein guter Jäger.                                                                                                                     ","DIA_Mysliwy_BACKTOCAMPSPARKY_03_01"
+"Romulus","","Danke, gehen wir zurück ins Camp?                                                                                                                     ","DIA_Mysliwy_BACKTOCAMPSPARKY_15_02"
+"Sparky","Ja, es ist Zeit für uns.                                                                                                                     ","DIA_Mysliwy_BACKTOCAMPSPARKY_03_03"
+
+"","","","","DIA_MYSLIWY_RANDOM1"
+(Try speak that in "mystic" way".)
+"Sparky","Im Großen Wald kannst du endlos jagen..                                                                                                                     ","DIA_MYSLIWY_RANDOM1_03_01"
+
+"","","","",""
+
