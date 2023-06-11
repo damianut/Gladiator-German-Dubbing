@@ -16,7 +16,7 @@
 "NONE_2302_Prisoner","Prisoner","","Kind, old prisoner","short","quaternary","kind|old",""
 "NONE_2304_Prisoner","Prisoner","roommate of a mad prisoner","","short","quaternary","desperated",""
 "NONE_2305_Prisoner","Prisoner","Rat handler","Crazy. He takes his rat seriously.","short","quaternary","funny|crazy",""
-"NONE_2316_Caradas","Caradas","Imprisoned captain of the Guards","Exhausted by torture. In prison he speaks in a hushed voice.","short-medium","tertiary","Varion|tortured",""
+"NONE_2316_Caradas","Caradas","Imprisoned captain of the Guards","Exhausted by torture. In prison he speaks in a hushed voice.","short-medium","tertiary","tortured",""
 "NONE_44812_Dadol","Dadol","","","short","quaternary","chill",""
 "NONE_5000_Kaly","Kaly","Real name: Keldrom","Brother of the current King Rezenhart, to whom the throne is due. He is conspiring to prepare a rebellion against the king. He deems Romulus capable of winning championships in all arenas, which in theory will allow him to challenge Rezenhart to a duel. He controls himself, acting like a spy.","very long","second_main_character","","Kurga"
 "NONE_500_Trader","Travelling merchant","","","short","quaternary","fake-distinguished",""
