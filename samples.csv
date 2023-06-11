@@ -21,3 +21,18 @@
 "commander"
 "Captain","Wer zur Hölle bist du? Du siehst nicht aus wie die anderen Reisenden!                                                                                                                     ","DIA_Dowodca_HELLO1_03_01"
 "Recker","Genug Erinnerungen Gladiator, raus aus meinem Zelt!                                                                                                                     ","DIA_Recker_READ1_03_11"
+
+
+"mage (like priest)"
+"Mage","Wir haben die Pflicht zu beten, zu lehren, die Kranken zu heilen und im Kampf gegen das Böse zu helfen.                                                                                                                     ","DIA_ForestKaplan_HELLO1_03_06"
+"Mage","Überall dort, wo Menschen leben. Auch hier.                                                                                                                     ","DIA_ForestKaplan_HELLO1_03_07"
+
+
+"tortured prisoner"
+"Caradas","Ich kann so nicht mehr weiterlaufen. Führe mich zu diesen Gittern.                                                                                                                     ","DIA_Caradas_EntryCanals_03_01"
+"Caradas","Ich habe schon zu lange geredet.                                                                                                                     ","DIA_Caradas_FirstMeet_03_16"
+
+
+"crazy man"
+"Wolfer","Hahaha! Weißt du, wer ich bin?                                                                                                                     ","DIA_Wolfer_HELLO1_03_01"
+"Wolfer","Ich bin der Sohn des Wolfs. Du hast keine Chance gegen mich!                                                                                                                     ","DIA_Wolfer_HELLO1_03_03"
