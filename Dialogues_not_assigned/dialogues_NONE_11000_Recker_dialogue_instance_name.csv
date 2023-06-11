@@ -184,5 +184,17 @@
 "Recker","Wir müssen uns dem Kampf anschließen.                                                                                                                     ","DIA_RECKERBATTLE_WAR_START_03_03"
 "Recker","Soldaten! Los, folge mir!                                                                                                                     ","DIA_RECKERBATTLE_WAR_START_03_04"
 
+"","","","","SFX_STR_RECKER_AVE_SOLDIERS"
+"(Recker with unit (and with Romulus) meet killed guards, hung near bandit camp, before ambush)"
+"Recker","Ruht in Frieden Soldaten...                                                                                                                     ","SFX_STR_RECKER_AVE_SOLDIERS",
+
+"","","","","SFX_STR_RECKERORDER1"
+"(Recker gives the order to attack.)"
+"Recker","Attacke!                                                                                                                     ","SFX_STR_RECKERORDER1"
+
+"","","","","SFX_STR_RECKERORDER3"
+"(Recker has been sneakily attacked by bandit killers. He cries for help.)"
+"Recker","Zu mir! Ich brauche Hilfe! Romulus!                                                                                                                     ","SFX_STR_RECKERORDER3"
+
 "","","","",""
 

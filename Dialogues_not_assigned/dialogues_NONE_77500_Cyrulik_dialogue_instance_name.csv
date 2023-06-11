@@ -39,5 +39,10 @@
 "Barber","Wenn sie nicht in der Lage sind, hierher zu kommen, würde ich ihnen um keinen Preis helfen.                                                                                                                     ","DIA_CYRULIK_WHYYOURTENTISHERE_03_03"
 "Romulus","","Verstehe.                                                                                                                     ","DIA_CYRULIK_WHYYOURTENTISHERE_15_04"
 
-"","","","",""
+"","","","","SFX_STR_CYRULIKVISIT"
+"Those three sentences will be merged as one cutscene. Each sentence will be interwoven with Romulus's screaming. Polish example: https://www.youtube.com/shorts/oinmFhLUC1s"
+"Barber","Los geht's.                                                                                                                     ","SFX_STR_CYRULIKVISIT_PART_1"
+"Barber","Aber bitte bewege dich nicht.                                                                                                                     ","SFX_STR_CYRULIKVISIT_PART_2"
+"Barber","Es ist vollbracht!                                                                                                                     ","SFX_STR_CYRULIKVISIT_PART_3",
 
+"","","","",""
