@@ -3694,21 +3694,27 @@
 "Captain","","Herzlichen Glückwunsch zu deiner Flucht!                                                                                                                     ","DIA_CAPTAINVILLAGE_GUARDSKILLED_02_03"
 
 "","","","DIA_Addon_Brandon_GivePotion"
+"(give potion)"
 "Romulus","Hier, nimm den Heiltrank.                                                                                                                     ","DIA_Addon_Brandon_GivePotion_15_00"
 
 "","","","SFX_STR_PROVOCATION1"
+"(Aperation of crowd utility. Romulus tries to provoke enemy with fight)"
 "Romulus","Hah! Was für ein Verlierer!                                                                                                                     ","SFX_STR_PROVOCATION1"
 
 "","","","SFX_STR_PROVOCATION2"
+"(Aperation of crowd utility. Romulus tries to provoke enemy with fight)"
 "Romulus","Komm schon, du Clown!                                                                                                                     ","SFX_STR_PROVOCATION2"
 
 "","","","SFX_STR_PROVOCATION3"
+"(Aperation of crowd utility. Romulus tries to provoke enemy with fight)"
 "Romulus","Solche wie dich esse ich zum Frühstück!                                                                                                                     ","SFX_STR_PROVOCATION3"
 
 "","","","SFX_STR_PROVOCATION4"
+"(Aperation of crowd utility. Romulus tries to provoke enemy with fight)"
 "Romulus","Seht ihn euch an, eine großes Maul hat er ja!                                                                                                                     ","SFX_STR_PROVOCATION4"
 
 "","","","SFX_STR_PROVOCATION5"
+"(Aperation of crowd utility. Romulus tries to provoke enemy with fight)"
 "Romulus","Hey Clown, ich bin hier!                                                                                                                     ","SFX_STR_PROVOCATION5"
 
 "","","",""
