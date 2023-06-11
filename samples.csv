@@ -1,0 +1,23 @@
+"gladiator"
+"Flamma","Denkst du? Ich schätze, sie wollen einen Kampf, also geben wir diesen dreckigen Hyänen, was sie wollen!                                                                                                                     ","DIA_FLAMMA_HELLO1_03_07"
+"Flamma","Ich gebe dir keinen Vorsprung!                                                                                                                     ","DIA_FLAMMA_HELLO1_03_08"
+
+
+"guard"
+"Gate guard","Du darfst die Stadt nicht betreten!                                                                                                                     ","DIA_GATEGUARD_HELLO1_03_01"
+"Supervisor","Stör mich nicht dreckiger Sklave.                                                                                                                     ","DIA_Guard_GETLOST_03_02"
+
+
+"merchant/teacher"
+"Blacksmith","Ich bin der Schmied hier, wenn du neue Waffen brauchst  - und das wirst du sicher - Kannst du bei mir welche Kaufen. Ich habe die hochwertigsten Waffen hier!                                                                                                                     ","DIA_Kowal_HELLO1_03_02"
+"Alchemist","Hallo! Ich bin der örtliche Alchemist, ich mache Tränke.                                                                                                                     ","DIA_Alchemik_HELLO1_03_01"
+
+
+"citizen"
+"…das ist doch nichts Neues…                                                                                                                     ","SVM_1_Smalltalk14"
+"…niemand darf gegen die göttliche Ordnung verstoßen…                                                                                                                     ","SVM_1_Smalltalk30"
+
+
+"commander"
+"Captain","Wer zur Hölle bist du? Du siehst nicht aus wie die anderen Reisenden!                                                                                                                     ","DIA_Dowodca_HELLO1_03_01"
+"Recker","Genug Erinnerungen Gladiator, raus aus meinem Zelt!                                                                                                                     ","DIA_Recker_READ1_03_11"
