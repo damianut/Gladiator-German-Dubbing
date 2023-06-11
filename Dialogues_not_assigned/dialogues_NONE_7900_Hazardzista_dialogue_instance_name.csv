@@ -7,5 +7,11 @@
 "Gambler","Wenn du Würfelpoker spielen und etwas Geld verdienen möchtest, lasse es mich wissen.                                                                                                                     ","DIA_Hazardzista_HELLO1_03_03"
 "Gambler","Ich würde gerne mit dir um Geld spielen.                                                                                                                     ","DIA_Hazardzista_HELLO1_03_04"
 
+"","","","","DIA_POKER_WIN"
+"Gambler","Herzlichen Glückwunsch, du bist ein super Spieler!                                                                                                                     ","DIA_POKER_WIN"
+
+"","","","","DIA_POKER_LOST"
+"Gambler","Ha! Du hast verloren, du hast keine Chance gegen den Champion des Würfelpokers!                                                                                                                     ","DIA_POKER_LOST"
+
 "","","","",""
 
