@@ -1,9 +1,9 @@
 "labels"
-"he-must-be","very-good","if-no-other","no"
+"he-must-be","very-good","good","maybe","if-no-better","no"
 
 
 "candidates"
-"","Meister mit der Leier",
+"","Meister mit der Leier"
 "","","matching"
 "","","","Alchemist","very-good"
 "","","","category: commander","very-good"
@@ -11,8 +11,37 @@
 "","","","category: crazy","he-must-be","Wolfer is gladiator, but crazy."
 
 "","","non-matching"
-"","","","Mage","if-no-other","If we can't find a better voice, so be it. But then I'll send you samples of what it should sound like. I was a lector in church, and I have some expectations about this role."
+"","","","Mage","if-no-better","If we can't find a better voice, so be it. But then I'll send you samples of what it should sound like. I was a lector in church, and I have some expectations about this role."
 "","","","category: tortured","no","He exaggerated. With torture I just mean that he has a tired voice."
 
 
-"","","","","",""
+"","Vaturas"
+"","","matching"
+"","","","category: tortured","maybe"
+"","","","category: commander","good"
+"","","","category: gladiator","good","Matching for part of gladiators."
+"","","","Herold","good","I think he is good for that after hearing his mage speeches."
+"","","","Mage","maybe","He cuts off the word too quickly."
+"","","","category: guard","good"
+"","","","category: merchant","maybe"
+"","","","category: crazy","good","but not for Wolfer. He sounds like Mud from Polish dubb here :>"
+"","","non-matching"
+"","","","Alchemist","no","He didn't get into role. Maybe I created not sufficient description."
+
+
+"","PSTJ"
+"","","matching"
+"","","","category: commander","good"
+"","","","category: merchant","good"
+"","","","Caradas","good","He sounds like tortured soldier."
+"","","non-matching"
+"","","","category: crazy","no"
+"","","","category: mage","no"
+"","","",
+
+
+"",""
+"","","matching"
+"","","",
+"","","non-matching"
+"","","",
