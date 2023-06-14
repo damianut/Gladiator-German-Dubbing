@@ -1,47 +1,22 @@
-"labels"
-"he-must-be","very-good","good","maybe","if-no-better","no"
-
-
-"candidates"
-"","Meister mit der Leier"
-"","","matching"
-"","","","Alchemist","very-good"
-"","","","category: commander","very-good"
-"","","","category: guard","very-good"
-"","","","category: crazy","he-must-be","Wolfer is gladiator, but crazy."
-
-"","","non-matching"
-"","","","Mage","if-no-better","If we can't find a better voice, so be it. But then I'll send you samples of what it should sound like. I was a lector in church, and I have some expectations about this role."
-"","","","category: tortured","no","He exaggerated. With torture I just mean that he has a tired voice."
-
-
-"","Vaturas"
-"","","matching"
-"","","","category: tortured","maybe"
-"","","","category: commander","good"
-"","","","category: gladiator","good","Matching for part of gladiators."
-"","","","Herold","good","I think he is good for that after hearing his mage speeches."
-"","","","Mage","maybe","He cuts off the word too quickly."
-"","","","category: guard","good"
-"","","","category: merchant","maybe"
-"","","","category: crazy","good","but not for Wolfer. He sounds like Mud from Polish dubb here :>"
-"","","non-matching"
-"","","","Alchemist","no","He didn't get into role. Maybe I created not sufficient description."
-
-
-"","PSTJ"
-"","","matching"
-"","","","category: commander","good"
-"","","","category: merchant","good"
-"","","","Caradas","good","He sounds like tortured soldier."
-"","","non-matching"
-"","","","category: crazy","no"
-"","","","category: mage","no"
-"","","",
-
-
-"",""
-"","","matching"
-"","","",
-"","","non-matching"
-"","","",
+Name,Gladiator,Gladiator-Info,Guard,Guard-Info,Merchant/Teacher,Merchant/Teacher-Info,Citizen,Citizen-Info,Commander,Commander-Info,Mage,Mage-Info,Tortured prisoner,Tortured prisoner-Info,Crazy Man,Crazy Man-Info,Alchemist,Alchemist-Info,Info-General
+12cy,"","",XX,"","","","","",X,"",X,"",X,"",XXX,"","","",""
+DannyKickem,XX,"","","",XX,"","","","","",XX,"","","","","","","",""
+Dee,"","",X,"","","",XXX,"",XX,"",X,"",XX,"",X,"",XXX,"",""
+Der Meister mit der Leier,"","",X|XXX,"","","","","",X|XXX,"",XX|O,"",X|-,"","","",X|XXX,"",""
+DerGraf,"","","X","(gate_guard_3,'', supervisor_2)","","",X,"",XX,"(captain_3.wav)","","",X,"","","",X,"",""
+Grachtnakk,X or XX,"",XX,"",X,"","","",X,"(DIA_Recker_READ1)",X,"",XX,"","","","","",Mic a little bit to low?
+JoeBob,"","","","","","","","","","","","","","","","","","","Nothing good,"", always speaks the same"
+Konrat_Lindemann,XXX,"",X,"",XX,"","","",XXX,"",X,"",XX,"","","",XXX,"",""
+PSTJ,X,"","","","|X","",X,"",XX|X,"","|-","",XX|XX,"|(he sounds like tortures soldier)",X|-,"","","",""
+SkaiLukeWalker,XX,"",XX,"",X,"(Blacksmith)",XX,"",XX,"","","",X,"",XX,"","","",""
+Umut,XX,"",XX,"","","","","","","",XXX,"","","",XX,"",X,"","He could well play imaginary characters,"", see Recker.wav"
+Vaturas,XX|XX,"|(matching for part of gladiators)",X|X,"",XX|O,"",XX,"",XXX|XX,"(Dowodca_HELLO1)","O","|(he cuts off the words too quickly)","|X","",XX|X,"|(but not as Wolfer)","|-","","|I think he should be good as herold after hearing his mage speeches."
+Warleby,"","","","","","","","","","","","","","","","","","","Nothing good, mic to low"
+,,,,,,,,,,,,,,,,,,,,
+- = no,,,,,,,,,,,,,,,,,,,,
+O = if no better,,,,,,,,,,,,,,,,,,,,
+X = ok,,,,,,,,,,,,,,,,,,,,
+XX = good,,,,,,,,,,,,,,,,,,,,
+XXX = very good,,,,,,,,,,,,,,,,,,,,
+XXXX = perfect,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
