@@ -1,0 +1,18 @@
+1. Notepad++ herunterladen und Installieren
+2. Plugins->Plugins Verwaltung
+3. Suchen nach csv lint, Installieren, alles bestätigen wegen Neustart von NP++
+4. Deine Dialog Datei öffnen und dann Sprache->CSV Lint einstellen. 
+
+Grün = Interner Dialog Name (NIcht wirklich wichtig für dich, nur zur Übersichtshalber)
+Blau = Dein Charakter (NAME_EINTRAGEN)
+Gelb = Dein Text
+Pink = OGG Dateiname
+
+Der Rest ist immer nur für den anderen Sprecher, also relativ unwichtig für dich.
+
+Bitte achte auch ein wenig auf Rechtschreibfehler oder unlogische dinge, DEINES Charakters. Bitte schreibe den jeweils berichtigten Satz gesammelt in eine txt Datei.
+Format: DIA_DIANAME_XX_XX ; "Ich bin der geänderte Text"
+
+Aufnahme Format: OGG Qualität 8
+
+Hinweiße zur Aufnahme:
