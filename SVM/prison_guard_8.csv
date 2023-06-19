@@ -1,8 +1,8 @@
 "SVM description: when Romulus (fake prison guard) is staying too long near another (real) prison guard. It's strange behaviour, so another guards react."
 
-"Ralf und du?                                                                                                                     ","SVM_8_RALFSTAY_1"
-"Wenn Sie etwas wollen, sprechen Sie es an und stehen Sie nicht wie eine Stange da!                                                                                                                     ","SVM_8_RALFSTAY_2"
-"Etwas falsch mit dir…                                                                                                                     ","SVM_8_RALFSTAY_3"
+"Ralf, was ist mit dir?                                                                                                                       ","SVM_8_RALFSTAY_1"
+"Wenn du etwas willst, dann sprich es aus und steh nicht da wie ein Pfosten!                                                                                                                     ","SVM_8_RALFSTAY_2"
+"Irgendwas stimmt mit dir nicht...                                                                                                                    ","SVM_8_RALFSTAY_3"
 
 NONE_1523_Kucharz
 NONE_1514_PRISON_GUARD
