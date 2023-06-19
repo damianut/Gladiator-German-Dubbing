@@ -15,5 +15,10 @@
 "Chef","Pass auf das du nicht von einer Ratte gefressen wirst!                                                                                                                     ","DIA_Kucharz_CHEESE_03_04"
 "Romulus","","Danke.                                                                                                                     ","DIA_Kucharz_CHEESE_15_05"
 
+"","","","","DIA_Kucharz_CHEESEAGAIN"
+"Romulus","","Ich habe wieder Hunger. Ich würde gern ein Stück Käse essen.                                                                                                                     ","DIA_Kucharz_CHEESEAGAIN_15_01"
+"Chef","Nimm es.                                                                                                                     ","DIA_Kucharz_CHEESEAGAIN_03_02"
+"Romulus","","Danke.                                                                                                                     ","DIA_Kucharz_CHEESE_15_05"
+
 "","","","",""
 
