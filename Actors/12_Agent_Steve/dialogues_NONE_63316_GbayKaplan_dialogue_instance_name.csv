@@ -1,6 +1,10 @@
 "CHARACTER DESCRIPTION"
 "calm and gentle"
 
+"GUIDELINES"
+"Hello Steve. Please speak like you did it in the 'versuche eins' of mage.wav, which you sent."
+"I.e. don't cut off your words abruptly and speak before, taking in more air. Greetings Damianut"
+
 "","","","","DIA_CityKaplan_HELLO1"
 "(COMBINED: This dialogue contains speeches which are used in combination to create another dialogues depend of player decisions. That's why, not all speeches are sequential. Partially this dialogue is sequential, but please don't treat in this way enterily dialogue.)"
 "Mage","Oh, jemand will mehr als nur Unterhaltung.                                                                                                                     ","DIA_CityKaplan_HELLO1_03_01"
