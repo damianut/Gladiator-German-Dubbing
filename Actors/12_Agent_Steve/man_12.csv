@@ -1,6 +1,9 @@
 "CHARACTER DESCRIPTION"
 "Here you are behaving like a citizen reacting to the actions of a player and gossiping. These are isolated statements from the original Gothic."
 
+"GUIDELINES"
+"Act like in 'versuche eins' in citizen.wav"
+
 "So ein Mistwetter!                                                                                                                     ","SVM_12_Weather"
 "Krieg ich dich DOCH noch!                                                                                                                     ","SVM_12_IGetYouStill"
 "Jetzt bist du dran!                                                                                                                     ","SVM_12_DieEnemy"

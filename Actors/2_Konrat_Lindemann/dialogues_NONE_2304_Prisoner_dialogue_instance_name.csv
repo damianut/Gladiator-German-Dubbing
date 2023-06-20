@@ -1,6 +1,9 @@
 "CHARACTER DESCRIPTION"
 "roommate of a mad prisoner, desperated"
 
+"GUIDELINES"
+"Please, act him in significantly different way than warden (NONE_1500_NACZELNIK)"
+
 "","","","","DIA_NONE_2304_Prisoner_FOOD"
 "Prisoner","Hol mich hier raus, ich kann diesen Verrückten nicht ausstehen!                                                                                                                     ","DIA_NONE_2304_Prisoner_FOOD_03_01"
 "Romulus","","Vielleicht stirbt bald einer von euch, dann hast du Ruhe.                                                                                                                     ","DIA_NONE_2304_Prisoner_FOOD_15_02"
