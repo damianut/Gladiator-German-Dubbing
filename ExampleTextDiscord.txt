@@ -1,7 +1,8 @@
 1. Notepad++ herunterladen und Installieren
 2. Plugins->Plugins Verwaltung
 3. Suchen nach csv lint, Installieren, alles bestätigen wegen Neustart von NP++
-4. Deine Dialog Datei öffnen und dann Sprache->CSV Lint einstellen. 
+4. (Siehe Bild) Plugins->Csv..->Settings
+5. Deine Dialog Datei öffnen und dann Sprache->CSV Lint einstellen. 
 
 Grün = Interner Dialog Name (NIcht wirklich wichtig für dich, nur zur Übersichtshalber)
 Blau = Dein Charakter (NAME_EINTRAGEN)
