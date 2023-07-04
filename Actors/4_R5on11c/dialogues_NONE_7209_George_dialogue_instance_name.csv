@@ -9,9 +9,11 @@
 "George","Das hat etwas geschnarcht. Im Schlaf wird es leicht es zu überraschen.                                                                                                                     ","DIA_GEORGE_HUNTGO1_03_01"
 
 "","","","","DIA_GEORGE_HUNTGO2"
+"(It's dialogue with to option for player. George asks, that they should escape. Then Romulus answers)"
 "George","Ach du Scheiße! Gehen wir?                                                                                                                     ","DIA_GEORGE_HUNTGO2_03_01"
 "Romulus","","Renn was du kannst!                                                                                                                     ","DIA_GEORGE_HUNTGO2_15_02"
 "Romulus","","Was für ein Jäger bist du? Soll dieser Drache weiter im Wald wüten?                                                                                                                     ","DIA_GEORGE_HUNTGO2_15_03"
+"Romulus","","Aber..                                                                                                                    ","DIA_GEORGE_HUNTGO2_07_04"
 
 "","","","","DIA_GEORGE_DRAGONKILLED"
 "George","Ich frage mich, wie der Boss auf solche Trophäen reagieren wird. Gehen wir zurück ins Lager!                                                                                                                     ","DIA_GEORGE_DRAGONKILLED_03_01"
