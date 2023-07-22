@@ -8,7 +8,7 @@
 
 "","","","","DIA_CYRULIK_LEARNINFO"
 "Romulus","","Kannst du mir beibringen, wie man Verletzungen vermeidet?                                                                                                                     ","DIA_CYRULIK_LEARNINFO_15_01"
-"Barber","Wenn du genug Lernpunkte und 100 Gold hast.                                                                                                                     ","DIA_CYRULIK_LEARNINFO_03_02"
+"Barber","Wenn du genug Erfahrung und 100 Gold hast.                                                                                                                     ","DIA_CYRULIK_LEARNINFO_03_02"
 
 "","","","","DIA_CYRULIK_REHAB"
 "Romulus","","Ich bin verletzt.                                                                                                                     ","DIA_CYRULIK_REHAB_15_01"
@@ -28,7 +28,7 @@
 "","","","","DIA_CYRULIK_LEARN"
 "Romulus","","Ich möchte meine Verletzungsresistenz erhöhen.                                                                                                                     ","DIA_CYRULIK_LEARN_15_01"
 "Barber","Niemand ist unzerstörbar. Ich kann dir nichts mehr beibringen.                                                                                                                     ","DIA_CYRULIK_LEARN_03_02"
-"Barber","Wenn du genug Lernpunkte und Gold hast.                                                                                                                     ","DIA_CYRULIK_LEARN_03_03"
+"Barber","Wenn du genug Erfahrung und Gold hast.                                                                                                                     ","DIA_CYRULIK_LEARN_03_03"
 "Barber","Also werde ausdauernder und belastbarer!                                                                                                                     ","DIA_CYRULIK_LEARN_03_04"
 "Barber","Sehr gut, direkt besser.                                                                                                                     ","DIA_CYRULIK_LEARN_03_06"
 "Barber","Komm zurück, wenn du genug Gold und Erfahrung hast.                                                                                                                     ","DIA_CYRULIK_LEARN_03_07"
