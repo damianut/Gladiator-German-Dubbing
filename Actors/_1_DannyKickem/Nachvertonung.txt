@@ -1,0 +1,13 @@
+"CHARACTER DESCRIPTION"
+"Barber. A bit sadistic." 
+_dialogues_NONE_77500_Cyrulik_dialogue_instance_name.csv
+
+"Barber","Wenn du genug Erfahrung und Gold hast.                                                                                                                     ","DIA_CYRULIK_LEARN_03_03"
+
+"Barber","Also werde ausdauernder und belastbarer!                                                                                                                     ","DIA_CYRULIK_LEARN_03_04"
+
+"Barber","Sehr gut, direkt besser.                                                                                                                     ","DIA_CYRULIK_LEARN_03_06"
+
+"Barber","Komm zurück, wenn du genug Gold und Erfahrung hast.                                                                                                                     ","DIA_CYRULIK_LEARN_03_07"
+
+-----------------------------------------------------------------------------
