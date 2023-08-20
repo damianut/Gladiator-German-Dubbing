@@ -1,3 +1,6 @@
+Format: OGG Qualität 8 MONO(!)
+
+
 _dialogues_SLD_90000_Proxemo_dialogue_instance_name.csv
 
 DIA_Proxemo_WITAJMORDO1_03_05 - //Es ist mir einfach scheißegal.
