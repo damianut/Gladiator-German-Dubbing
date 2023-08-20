@@ -1,0 +1,26 @@
+Format: OGG Qualität 8 MONO (!)
+
+
+dialogues_NONE_5052_Zarzadcaforest_dialogue_instance_name.csv
+DIA_ZARZADCA_NAGRODKA3_03_01 //Bitte, bitte, herzlichen Glückwunsch.
+DIA_ZARZADCA_NAGRODKA3_03_02 //Viele Zuschauer setzen auf dein Ende, und doch stehst du hier!
+DIA_ZARZADCA_NAGRODKA3_03_05 //Hier ist natürlich dein Gold.
+
+-------------------------------------------------------------------
+dialogues_NONE_90002_LordTameron_dialogue_instance_name.csv
+DIA_LORDTameron_KUPSKO_03_05 //Auf Befehl unseres Königs beträgt die Bezahlung für Kämpfe jetzt 10 Prozent, nicht wie früher 30 Prozent.
+
+
+-------------------------------------------------------------------
+dialogues_NONE_90002_LordTameron_dialogue_instance_name.csv
+DIA_LORDTameron_KURWALELATWO_03_07 //Nehme es mir nicht übel, dass ich soviele Wachen hier habe. Aus Sicherheitsgründen, du verstehst.
+
+
+-------------------------------------------------------------------
+dialogues_NONE_5461_Merlin_dialogue_instance_name.csv
+DIA_Merlin_HELLO1_03_03 //Und das solltest du, Junge.
+
+
+-------------------------------------------------------------------
+man_5.csv
+SVM_5_ShitNoGold //Du hast noch nicht mal Gold dabei?

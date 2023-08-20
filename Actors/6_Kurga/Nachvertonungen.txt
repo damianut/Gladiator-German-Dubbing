@@ -1,0 +1,21 @@
+Format: OGG - Qualität 8 MONO (!)
+
+DIA_KALY_AAAC
+DIA_KALY_AAAC_03_06 //Wie war sein Name?
+DIA_KALY_AAAC_03_08 //Ich kenne so jemanden nicht.
+
+
+DIA_KALY_GADALEM
+DIA_KALY_GADALEM_03_03"); //Ruhe dich aus, der Kampf steht dir bevor.
+
+
+DIA_KalyHunt_MAMWIAODMOSC
+DIA_KalyHunt_MAMWIAODMOSC_03_08 //Wir können zurück.
+
+
+DIA_Kalyforest_ASSA
+DIA_Kalyforest_ASSA_03_02 //Folge mir, und ich bringe dich zum Ausgang, den wir in die Stadt nehmen.
+
+
+DIA_KALY_SUPERPARTIA
+DIA_KALY_SUPERPARTIA_03_01 //Tolle Arbeit, ich hatte Angst, dass du wegen diesem Vorfall nicht mit Hamlock fertig werden könntest.

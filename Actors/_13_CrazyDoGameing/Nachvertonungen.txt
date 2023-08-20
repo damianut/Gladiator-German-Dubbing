@@ -1,2 +1,0 @@
-dialogues_NONE_5230_Timon_dialogue_instance_name.csv
-DIA_Timon_HELLO1_03_06 //Nur nicht im Gasthof, sondern dahinter. Wir Benötigen einen diskreteren Ort.

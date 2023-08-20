@@ -1,0 +1,5 @@
+Format: OGG Qualität 8 MONO(!)
+
+
+dialogues_NONE_5122_Karczmarz_dialogue_instance_name.csv
+DIA_Karczmarz_SELLINFO_03_03 //Für 50 Goldstücke verrate ich dir die Ausrüstung deines nächsten Gegners.

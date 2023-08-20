@@ -1,0 +1,41 @@
+Format: OGG Qualität 8 MONO(!)
+
+
+_dialogues_NONE_77500_Cyrulik_dialogue_instance_name.csv
+DIA_CYRULIK_LEARN_03_03 //Wenn du genug Erfahrung und Gold hast.
+DIA_CYRULIK_LEARN_03_04 //Also werde ausdauernder und belastbarer!
+DIA_CYRULIK_LEARN_03_06 //Sehr gut, direkt besser.
+DIA_CYRULIK_LEARN_03_07 //Komm zurück, wenn du genug Gold und Erfahrung hast.
+
+
+-----------------------------------------------------------------------------
+dialogues_NONE_5391_Pasterz_dialogue_instance_name.csv
+DIA_STARSZY_BOZE_03_01 //Endlich wurden diese abscheulichen Wölfe getötet. Hast du auch den Rudelführer getötet?
+DIA_STARSZY_BOZE_03_03 //Endlich sind meine Schafe in Sicherheit!
+DIA_STARSZY_BOZE_03_04 //Dank dir haben die meisten Schafe überlebt.
+DIA_STARSZY_BOZE_03_05 //Danke. Die Wölfe haben meine Herde dezimiert, aber ich habe nun etwas Fleisch zum essen…
+DIA_STARSZY_BOZE_03_06 //Danke. Ich muss mich nicht mehr vor den Wölfen fürchten und die Schafe hüten…
+
+
+-----------------------------------------------------------------------------
+dialogues_NONE_7707_STRAZNIK_dialogue_instance_name.csv (Dialog ist nicht in der Datei, nur zu Charakter referenz)
+DIA_7707_BUYWEAPON_03_06 //Hier für dich. Eine weitere Charge Waffen.
+
+
+-----------------------------------------------------------------------------
+dialogues_NONE_7707_STRAZNIK_dialogue_instance_name.csv
+DIA_7707_BUYWEAPON_03_04"); //Hier hast du sie. Ein weiterer Satz Waffen.
+
+
+-----------------------------------------------------------------------------
+dialogues_NONE_7204_Mysliwy_dialogue_instance_name.csv
+DIA_Mysliwy_PITOSGOTOHUNT_03_02 //Dann los. Es sollten einige Waldscavenger im Wald sein. (Anmerkung: Du hast Wildscavenger in der Aufnahme gesagt)
+
+
+-----------------------------------------------------------------------------
+man_1.csv
+SVM_1_DirtyThief //Na warte, du dreckiger Dieb!
+SVM_1_GetOutOfHere //Raus hier!
+SVM_1_GoodMonsterKill //(ruft zu) Gut gemacht - ein Drecksvieh weniger!
+SVM_1_Ooh01 //Lass dir nichts gefallen!
+SVM_1_Ooh02 //Den wirst du ja wohl schaffen!

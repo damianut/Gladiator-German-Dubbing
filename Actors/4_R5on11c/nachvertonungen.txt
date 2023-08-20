@@ -1,0 +1,8 @@
+dialogues_NONE_600_Architekt_dialogue_instance_name.csv
+
+DIA_Architekt_HELLO1_03_17 //Ja sie sind es, aber sie werden von Wachen zu Gladiatorenbehausungen eskortiert.
+
+------------------------------------------------------
+dialogues_NONE_7209_George_dialogue_instance_name.csv
+
+DIA_GEORGE_HUNTGO2_07_04 //Aber...

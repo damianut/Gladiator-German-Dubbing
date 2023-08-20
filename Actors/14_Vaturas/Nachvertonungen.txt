@@ -1,0 +1,10 @@
+Format: OGG Qualität 8 MONO(!)
+
+
+dialogues_NONE_7470_Dywaniarz_dialogue_instance_name.csv
+DIA_Dywaniarz_HELLO2_03_01 //Und was denkst du? Zweifelst du immer noch an der Kraft des Teppichs?
+
+
+-----------------------------------------------------------------------
+dialogues_VLK_406_Herold_dialogue_instance_name.csv
+GLADIATOR_HEROLD_11 //Nach einem spannenden Kampf besiegte der Gladiator Romulus zur Freude des Volkes, Diadys!

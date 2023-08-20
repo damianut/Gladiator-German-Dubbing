@@ -1,4 +1,3 @@
 _dialogues_SLD_90000_Proxemo_dialogue_instance_name.csv
-Proxemo:
 
 DIA_Proxemo_WITAJMORDO1_03_05 - //Es ist mir einfach scheißegal.

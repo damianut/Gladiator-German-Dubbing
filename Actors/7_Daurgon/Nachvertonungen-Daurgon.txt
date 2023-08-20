@@ -1,0 +1,26 @@
+Format: OGG Qualität 8 MONO(!)
+
+
+dialogues_NONE_5560_Flamma_dialogue_instance_name.csv
+DIA_FLAMMA_HELLO3_03_18 //Diesmal jedoch ohne Angst um dein Leben. (DEIN Leben, nicht wie aktuell "mein Leben")
+DIA_FLAMMA_HELLO3_03_29 //Viel Glück in der Arena!
+
+
+-----------------------------------------------------------------------
+dialogues_NONE_2305_Prisoner_dialogue_instance_name.csv
+DIA_NONE_2305_Prisoner_FOOD_03_01 //Zwei Portionen, bitte. Die andere ist für meinen hängenden Kollegen da.
+
+
+-----------------------------------------------------------------------
+dialogues_NONE_9550_King_dialogue_instance_name.csv
+DIA_King_HELLO3_03_01 //Es gibt also niemanden, der hinter dir steht? Gut zu wissen.
+DIA_King_HELLO3_03_02 //Gebe mir nicht die Schuld, dass ich Proxemo beauftragt habe, Arenasklaven zu finden.
+DIA_King_HELLO3_03_03 //Hättest du jemals erwartet, so berühmt und reich zu werden?
+DIA_King_HELLO3_03_04 //In Ordnung, ihr könnt ihn mitnehmen. Es ist Zeit für weitere Gladiatorenspiele!
+
+DIA_King_HELLO2_03_05 //Du hast eine umfangreiche Ausbildung durchlaufen, du hast Elitewaffen herangeschafft und sogar noch den ganzen Nachschub organisiert.
+
+
+-----------------------------------------------------------------------
+man_7.csv
+SVM_7_Smalltalk03 //…sag mir nicht, du hast das nicht gewusst…

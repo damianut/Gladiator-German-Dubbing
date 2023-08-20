@@ -1,8 +1,0 @@
-Format: OGG - Qualität 8
-
-DIA_KALY_AAAC
-DIA_KALY_AAAC_03_06 //Wie war sein Name?
-DIA_KALY_AAAC_03_08 //Ich kenne so jemanden nicht.
-
-DIA_KALY_GADALEM
-DIA_KALY_GADALEM_03_03"); //Ruhe dich aus, der Kampf steht dir bevor.

@@ -1,0 +1,11 @@
+Format: OGG Qualität 8 MONO (!)
+
+
+dialogues_PRI_1501_GUARD_NACZELNIK_dialogue_instance_name.csv
+DIA_GuardGate_Nadzorca_WHEREAREYOUGO_03_01 //Warum läufst du hier mit dem Essen herum? Das musst du an die Gefangenen verteilen.
+DIA_GuardGate_Nadzorca_WHEREAREYOUGO_03_03 //Du solltest Essen an die Gefangenen verteilen. Was machst du hier?
+
+
+-----------------------------------------------------------------------
+dialogues_PRI_1524_DARYL_dialogue_instance_name.csv
+DIA_PRISON_IMPORTANT_GUARD_GOAWAY_03_12"); //Warte, warum interessierst du dich so für diese Zelle?

@@ -1,0 +1,15 @@
+Format: OGG Qualität 8 MONO(!)
+
+
+dialogues_NONE_5230_Timon_dialogue_instance_name.csv
+DIA_Timon_HELLO1_03_06 //Nur nicht im Gasthof, sondern dahinter. Wir Benötigen einen diskreteren Ort.
+
+
+-----------------------------------------------------------------------
+dialogues_NONE_9960_Igor_dialogue_instance_name.csv
+DIA_Igor_HELLO1_03_03 //'Ich schaue mich nur um.' Gibt es hier wirklich keine interessanteren Orte mehr zu sehen?
+
+
+-----------------------------------------------------------------------
+man_13.csv
+SVM_13_GETOUTOFHERE //Raus hier!

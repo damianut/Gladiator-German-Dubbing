@@ -1,0 +1,18 @@
+Format: OGG Qualität 8 MONO(!)
+
+DIA_SEDZIA_HELLO2_15_19 //Werde ich, danke.
+
+
+DIA_Pieprz_HELLO1_15_02 //Nein, das ist ein Missverständnis.
+DIA_Pieprz_HELLO1_15_06 //Ich habe nichts zu schreiben dabei.
+DIA_Pieprz_HELLO1_15_08 //Na dann los…
+DIA_Pieprz_HELLO1_15_09 //Für wen ist das Autorgramm?
+DIA_Pieprz_HELLO1_15_11 //Nun, wie heißt du, denn ich will nicht nicht nur 'Für' schreiben, du verstehst?
+DIA_Pieprz_HELLO1_15_14 //Dein Name ist Pfeffer?
+DIA_Pieprz_HELLO1_15_16 //Und warum heißt du so?
+DIA_Pieprz_HELLO1_15_17 //Weil du scharf bist?
+DIA_Pieprz_HELLO1_15_25 //Eine bewegende Geschichte. Da hast du das Autogramm, und es tut mir leid, aber ich muss jetzt gehen.
+
+
+DIA_Hamlock_HELLO1_15_05 //Das werden wir noch sehen.
+

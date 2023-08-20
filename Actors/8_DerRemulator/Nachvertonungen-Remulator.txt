@@ -1,0 +1,21 @@
+Format: OGG Qualität 8 MONO(!)
+
+
+dialogues_NONE_5450_Gindor_dialogue_instance_name.csv
+DIA_Gindor_HELLO1_03_01 //Ich habe mich auf dieses Treffen gefreut. Alle reden und schreiben über deine Macht.
+
+
+-----------------------------------------------------------------------
+dialogues_NONE_1517_Prison_guard_dialogue_instance_name.csv
+DIA_1517_Prison_guard_WHEREAREYOUGO_03_01"); //Du sollst die Schlangen jagen gehen.
+
+
+-----------------------------------------------------------------------
+man_8.csv
+SVM_8_GetOutOfHere //Raus hier!
+SVM_8_NextTimeYoureInForIt //(zu sich selbst) Das nächste Mal werden wir ja sehen…
+SVM_8_SheepKillerMonster //Das verdammte Mistvieh frisst unsere Schafe!
+SVM_8_StopMagic //Geh bloß weg mit deiner Magie!
+SVM_8_WhatsThisSupposedToBe //Hey du! Was schleichst du da rum.
+SVM_8_WhyAreYouInHere //Was suchst du hier!? Geh!
+SVM_8_WiseMove //Na bitte, geht doch!
